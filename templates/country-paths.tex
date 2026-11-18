@@ -1,0 +1,29 @@
+\begin{figure}[p]
+\centering
+\begin{tikzpicture}[>=Stealth,box/.style={draw,rounded corners,align=center,font=\small,text width=29mm,minimum height=12mm}]
+\node[box] (r) at (0,0) {Religion\\$R_t$};
+\node[box] (s) at (4.6,1.7) {Connectedness\\$S_{t+1}$};
+\node[box] (y) at (9.2,0) {\emph{Happiness}\\$t+2$};
+\draw[->] (r)--node[above left,font=\small]{$a=+0.256$}(s);
+\draw[->] (s)--node[above right,font=\small]{$b_k=+0.249$}(y);
+\draw[->] (r)--node[below,font=\small]{$c'_k=+0.009$}(y);
+\end{tikzpicture}\par\bigskip
+\begin{tikzpicture}[>=Stealth,box/.style={draw,rounded corners,align=center,font=\small,text width=29mm,minimum height=12mm}]
+\node[box] (r) at (0,0) {Religion\\$R_t$};
+\node[box] (s) at (4.6,1.7) {Connectedness\\$S_{t+1}$};
+\node[box] (y) at (9.2,0) {\emph{Life satisfaction}\\$t+2$};
+\draw[->] (r)--node[above left,font=\small]{$a=+0.256$}(s);
+\draw[->] (s)--node[above right,font=\small]{$b_k=+0.335$}(y);
+\draw[->] (r)--node[below,font=\small]{$c'_k=-0.005$}(y);
+\end{tikzpicture}\par\bigskip
+\begin{tikzpicture}[>=Stealth,box/.style={draw,rounded corners,align=center,font=\small,text width=29mm,minimum height=12mm}]
+\node[box] (r) at (0,0) {Religion\\$R_t$};
+\node[box] (s) at (4.6,1.7) {Connectedness\\$S_{t+1}$};
+\node[box] (y) at (9.2,0) {\emph{Purpose in life}\\$t+2$};
+\draw[->] (r)--node[above left,font=\small]{$a=+0.256$}(s);
+\draw[->] (s)--node[above right,font=\small]{$b_k=+0.686$}(y);
+\draw[->] (r)--node[below,font=\small]{$c'_k=-0.149$}(y);
+\end{tikzpicture}\par\bigskip
+\caption{Country longitudinal SEM paths. Point estimates only; see the corresponding table for uncertainty.}
+\label{fig:country-paths}
+\end{figure}

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and identify the version or commit of this replication repository."
+title: "Religion HFGI: replication data and code"
+type: software
+authors:
+  - family-names: Iacus
+    given-names: Stefano M.
+  - family-names: Porro
+    given-names: Giuseppe
+  - family-names: Qi
+    given-names: Haodong
+repository-code: "https://github.com/siacus/religion-hfgi"
+url: "https://github.com/siacus/religion-hfgi"
+version: 1.0.0
+date-released: 2026-11-18
+abstract: "Replication materials for Religious expression and well-being across countries and regions: Evidence from a decade of social media posts. Includes model variables for 2013–2022 and the analyses reported in the manuscript and supplementary material."

@@ -1,0 +1,25 @@
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[>=Stealth,
+ latent/.style={draw,ellipse,align=center,font=\small,minimum width=29mm,minimum height=12mm},
+ observed/.style={draw,align=center,font=\small,text width=31mm,minimum height=11mm}]
+\foreach \lev/\yy/\heading in {W/0/Within-region deviations,B/-4/Between-region components}{
+  \node[font=\bfseries\small,anchor=west] at (-1.6,\yy+1.3) {\heading};
+  \node[latent] (r\lev) at (0,\yy) {Religion\\$R_{\lev}$};
+  \node[latent] (s\lev) at (4.5,\yy) {Connectedness\\$S_{\lev}$};
+  \node[observed] (y\lev) at (9,\yy) {Three outcomes\\$Y^{(k)}_{\lev}$};
+  \node[observed] (ri\lev) at (0,\yy-1.6) {Four religion\\indicators};
+  \node[observed] (si\lev) at (4.5,\yy-1.6) {Four social\\indicators};
+  \draw[->] (r\lev)--(s\lev);
+  \draw[->] (s\lev)--(y\lev);
+  \draw[->] (r\lev.north) to[bend left=15] (y\lev.north);
+  \draw[->] (r\lev)--(ri\lev);
+  \draw[->] (s\lev)--(si\lev);
+}
+\end{tikzpicture}
+\caption{Attempted latent multilevel specification. Each grouped indicator
+box represents four separate observed variables with their own loadings
+and residuals; each outcome also has its own residual. No estimated
+coefficients are shown.}
+\label{fig:latent-specification}
+\end{figure}

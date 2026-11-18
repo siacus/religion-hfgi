@@ -1,0 +1,2 @@
+df,covariance_structure_df,fixed_zero_intercepts,n_free_parameters,converged,admissible,min_vcov_eigenvalue,max_vcov_eigenvalue,max_abs_country_residual_mean,n_observations,n_countries,window
+4,0,4,14,TRUE,TRUE,4.39228056024384e-07,0.031453245501429,2.44942954807925e-15,682,42,2013-2022

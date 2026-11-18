@@ -1,0 +1,23 @@
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[>=Stealth, node distance=18mm,
+ box/.style={draw,rounded corners,align=center,font=\small,text width=32mm,minimum height=11mm}]
+\node[box] (r) at (0,0) {Religious expression\\$R_t$};
+\node[box] (s) at (5,0) {Social connectedness\\$S_{t+1}$};
+\node[box] (y) at (10,0) {Well-being\\$Y^{(k)}_{t+2}$};
+\node[box] (u) at (5,3) {Unmeasured\\place-specific changes};
+\node[box] (b) at (5,-2) {Baseline connectedness\\and three outcomes};
+\draw[->] (r)--node[above]{$a$}(s);
+\draw[->] (s)--node[above]{$b_k$}(y);
+\draw[->] (r.south) to[bend right=80] node[below]{$c'_k$}(y.south);
+\draw[->,dashed] (u)--(r);
+\draw[->,dashed] (u)--(s);
+\draw[->,dashed] (u)--(y);
+\draw[->] (b)--(s);
+\draw[->] (b.east)--(y.south);
+\end{tikzpicture}
+\caption{Proposed annual pathway at country and regional scales. 
+Fixed effects and trends
+are omitted from the drawing for clarity.}
+\label{fig:dag}
+\end{figure}
