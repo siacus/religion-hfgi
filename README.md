@@ -2,7 +2,7 @@
 
 Replication materials for **Religious expression and well-being across countries and regions: Evidence from a decade of social media posts**, by Stefano M. Iacus, Giuseppe Porro, and Haodong Qi.
 
-This repository accompanies the manuscript version of **18 November 2026**. It reproduces the reported analyses for **2013–2022** from one CSV containing the model variables. It includes the national and regional annual associations, longitudinal connectedness pathways, regional period-average analyses, country-by-year sensitivity checks, outcome contrasts, attempted latent-model diagnostics, and coefficient figures.
+This repository accompanies the manuscript version of **21 November 2026**. It reproduces the reported analyses for **2013–2022** from one CSV containing the model variables. It includes the national and regional annual associations, longitudinal connectedness pathways, regional period-average analyses, country-by-year sensitivity checks, outcome contrasts, attempted latent-model diagnostics, and coefficient figures.
 
 ## Quick start
 
@@ -45,6 +45,26 @@ The CSV contains four **analysis blocks**, identified by `analysis`. Each block 
 `NUTS1` is the historical label in the analysis files for **first-level administrative regions worldwide**; it does not imply that every unit belongs to the European NUTS system. The longitudinal blocks contain annual observations before matching `t`, `t+1`, and `t+2`. The period-average block represents 2013–2022, so its `year` field is intentionally missing.
 
 See **[From model variables to estimates](docs/VARIABLES_AND_METHODS.md)** for the full data dictionary, the construction of the released indicators, all standardization conventions, weights, lag construction, and model specifications.
+
+## Geographic coverage maps
+
+The geographic coverage figure added on 21 November 2026 is reproduced by
+`coverage_maps.R`. It maps eligible years in the same `annual_association`
+block used by the statistical analyses; no model is refitted.
+
+```sh
+Rscript install_dependencies.R --maps
+Rscript coverage_maps.R --data data/model_data.csv --spatial-dir /path/to/boundaries --output-dir results/coverage_maps
+```
+
+Map rendering additionally requires the project's administrative boundary
+layers (`adm0.shp` and `adm1_simplify.shp`, including companion files).
+These external geometry files are not bundled with this release. Their hashes,
+matching rules and the verified country/region crosswalk are documented in
+[Geographic coverage maps](docs/COVERAGE_MAPS.md). The statistical replication
+pipeline remains self-contained from `data/model_data.csv` and does not require
+these geometry files. The final PNG and coverage checks are included in
+`reference/coverage_maps/`.
 
 ## Execution sequence
 

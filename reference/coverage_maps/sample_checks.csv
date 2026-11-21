@@ -1,0 +1,3 @@
+geographic_level,units,countries,observations,min_years,max_years
+Country,60,60,592,8,10
+NUTS1,953,59,7840,4,10

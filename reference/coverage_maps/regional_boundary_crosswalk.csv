@@ -1,0 +1,954 @@
+country,unit,region_id,region_name,boundary_name,boundary_unit,match_method,n_years
+AF,AF|14|Kabul,14,Kabul,Kabul,AF|14|Kabul,"Exact country, region ID and name",6
+AF,AF|9|Ghazni,9,Ghazni,Ghazni,AF|9|Ghazni,"Exact country, region ID and name",5
+AL,AL|11|Tiranë,11,Tiranë,Tiranë,AL|11|Tiranë,"Exact country, region ID and name",6
+AL,AL|4|Elbasan,4,Elbasan,Elbasan,AL|4|Elbasan,"Exact country, region ID and name",5
+AR,AR|10|Jujuy,10,Jujuy,Jujuy,AR|10|Jujuy,"Exact country, region ID and name",10
+AR,AR|11|La Pampa,11,La Pampa,La Pampa,AR|11|La Pampa,"Exact country, region ID and name",10
+AR,AR|12|La Rioja,12,La Rioja,La Rioja,AR|12|La Rioja,"Exact country, region ID and name",10
+AR,AR|13|Mendoza,13,Mendoza,Mendoza,AR|13|Mendoza,"Exact country, region ID and name",10
+AR,AR|14|Misiones,14,Misiones,Misiones,AR|14|Misiones,"Exact country, region ID and name",10
+AR,AR|15|Neuquén,15,Neuquén,Neuquén,AR|15|Neuquén,"Exact country, region ID and name",10
+AR,AR|16|Río Negro,16,Río Negro,Río Negro,AR|16|Río Negro,"Exact country, region ID and name",10
+AR,AR|17|Salta,17,Salta,Salta,AR|17|Salta,"Exact country, region ID and name",10
+AR,AR|18|San Juan,18,San Juan,San Juan,AR|18|San Juan,"Exact country, region ID and name",10
+AR,AR|19|San Luis,19,San Luis,San Luis,AR|19|San Luis,"Exact country, region ID and name",10
+AR,AR|1|Buenos Aires,1,Buenos Aires,Buenos Aires,AR|1|Buenos Aires,"Exact country, region ID and name",10
+AR,AR|20|Santa Cruz,20,Santa Cruz,Santa Cruz,AR|20|Santa Cruz,"Exact country, region ID and name",10
+AR,AR|21|Santa Fe,21,Santa Fe,Santa Fe,AR|21|Santa Fe,"Exact country, region ID and name",10
+AR,AR|22|Santiago del Estero,22,Santiago del Estero,Santiago del Estero,AR|22|Santiago del Estero,"Exact country, region ID and name",10
+AR,AR|23|Tierra del Fuego,23,Tierra del Fuego,Tierra del Fuego,AR|23|Tierra del Fuego,"Exact country, region ID and name",10
+AR,AR|24|Tucumán,24,Tucumán,Tucumán,AR|24|Tucumán,"Exact country, region ID and name",10
+AR,AR|2|Córdoba,2,Córdoba,Córdoba,AR|2|Córdoba,"Exact country, region ID and name",10
+AR,AR|3|Catamarca,3,Catamarca,Catamarca,AR|3|Catamarca,"Exact country, region ID and name",10
+AR,AR|4|Chaco,4,Chaco,Chaco,AR|4|Chaco,"Exact country, region ID and name",10
+AR,AR|5|Chubut,5,Chubut,Chubut,AR|5|Chubut,"Exact country, region ID and name",10
+AR,AR|6|Ciudad de Buenos Aires,6,Ciudad de Buenos Aires,Ciudad de Buenos Aires,AR|6|Ciudad de Buenos Aires,"Exact country, region ID and name",10
+AR,AR|7|Corrientes,7,Corrientes,Corrientes,AR|7|Corrientes,"Exact country, region ID and name",10
+AR,AR|8|Entre Ríos,8,Entre Ríos,Entre Ríos,AR|8|Entre Ríos,"Exact country, region ID and name",10
+AR,AR|9|Formosa,9,Formosa,Formosa,AR|9|Formosa,"Exact country, region ID and name",10
+AT,AT|1|Burgenland,1,Burgenland,Burgenland,AT|1|Burgenland,"Exact country, region ID and name",5
+AT,AT|2|Kärnten,2,Kärnten,Kärnten,AT|2|Kärnten,"Exact country, region ID and name",7
+AT,AT|3|Niederösterreich,3,Niederösterreich,Niederösterreich,AT|3|Niederösterreich,"Exact country, region ID and name",8
+AT,AT|4|Oberösterreich,4,Oberösterreich,Oberösterreich,AT|4|Oberösterreich,"Exact country, region ID and name",10
+AT,AT|5|Salzburg,5,Salzburg,Salzburg,AT|5|Salzburg,"Exact country, region ID and name",10
+AT,AT|6|Steiermark,6,Steiermark,Steiermark,AT|6|Steiermark,"Exact country, region ID and name",9
+AT,AT|7|Tirol,7,Tirol,Tirol,AT|7|Tirol,"Exact country, region ID and name",10
+AT,AT|8|Vorarlberg,8,Vorarlberg,Vorarlberg,AT|8|Vorarlberg,"Exact country, region ID and name",8
+AT,AT|9|Wien,9,Wien,Wien,AT|9|Wien,"Exact country, region ID and name",10
+AU,AU|10|Victoria,10,Victoria,Victoria,AU|10|Victoria,"Exact country, region ID and name",10
+AU,AU|11|Western Australia,11,Western Australia,Western Australia,AU|11|Western Australia,"Exact country, region ID and name",10
+AU,AU|2|Australian Capital Territory,2,Australian Capital Territory,Australian Capital Territory,AU|2|Australian Capital Territory,"Exact country, region ID and name",8
+AU,AU|5|New South Wales,5,New South Wales,New South Wales,AU|5|New South Wales,"Exact country, region ID and name",10
+AU,AU|6|Northern Territory,6,Northern Territory,Northern Territory,AU|6|Northern Territory,"Exact country, region ID and name",10
+AU,AU|7|Queensland,7,Queensland,Queensland,AU|7|Queensland,"Exact country, region ID and name",10
+AU,AU|8|South Australia,8,South Australia,South Australia,AU|8|South Australia,"Exact country, region ID and name",10
+AU,AU|9|Tasmania,9,Tasmania,Tasmania,AU|9|Tasmania,"Exact country, region ID and name",9
+BA,BA|2|Federacija Bosna i Hercegovina,2,Federacija Bosna i Hercegovina,Federacija Bosna i Hercegovina,BA|2|Federacija Bosna i Hercegovina,"Exact country, region ID and name",10
+BA,BA|3|Repuplika Srpska,3,Repuplika Srpska,Repuplika Srpska,BA|3|Repuplika Srpska,"Exact country, region ID and name",8
+BE,BE|1|Bruxelles,1,Bruxelles,Bruxelles,BE|1|Bruxelles,"Exact country, region ID and name",10
+BE,BE|2|Vlaanderen,2,Vlaanderen,Vlaanderen,BE|2|Vlaanderen,"Exact country, region ID and name",10
+BE,BE|3|Wallonie,3,Wallonie,Wallonie,BE|3|Wallonie,"Exact country, region ID and name",10
+BG,BG|22|Stara Zagora,22,Stara Zagora,Stara Zagora,BG|22|Stara Zagora,"Exact country, region ID and name",5
+BG,BG|5|Grad Sofiya,5,Grad Sofiya,Grad Sofiya,BG|5|Grad Sofiya,"Exact country, region ID and name",8
+BR,BR|10|Maranhão,10,Maranhão,Maranhão,BR|10|Maranhão,"Exact country, region ID and name",10
+BR,BR|11|Mato Grosso do Sul,11,Mato Grosso do Sul,Mato Grosso do Sul,BR|11|Mato Grosso do Sul,"Exact country, region ID and name",10
+BR,BR|12|Mato Grosso,12,Mato Grosso,Mato Grosso,BR|12|Mato Grosso,"Exact country, region ID and name",10
+BR,BR|13|Minas Gerais,13,Minas Gerais,Minas Gerais,BR|13|Minas Gerais,"Exact country, region ID and name",10
+BR,BR|14|Pará,14,Pará,Pará,BR|14|Pará,"Exact country, region ID and name",10
+BR,BR|15|Paraíba,15,Paraíba,Paraíba,BR|15|Paraíba,"Exact country, region ID and name",10
+BR,BR|16|Paraná,16,Paraná,Paraná,BR|16|Paraná,"Exact country, region ID and name",10
+BR,BR|17|Pernambuco,17,Pernambuco,Pernambuco,BR|17|Pernambuco,"Exact country, region ID and name",10
+BR,BR|18|Piauí,18,Piauí,Piauí,BR|18|Piauí,"Exact country, region ID and name",10
+BR,BR|19|Rio de Janeiro,19,Rio de Janeiro,Rio de Janeiro,BR|19|Rio de Janeiro,"Exact country, region ID and name",10
+BR,BR|1|Acre,1,Acre,Acre,BR|1|Acre,"Exact country, region ID and name",10
+BR,BR|20|Rio Grande do Norte,20,Rio Grande do Norte,Rio Grande do Norte,BR|20|Rio Grande do Norte,"Exact country, region ID and name",10
+BR,BR|21|Rio Grande do Sul,21,Rio Grande do Sul,Rio Grande do Sul,BR|21|Rio Grande do Sul,"Exact country, region ID and name",10
+BR,BR|22|Rondônia,22,Rondônia,Rondônia,BR|22|Rondônia,"Exact country, region ID and name",10
+BR,BR|23|Roraima,23,Roraima,Roraima,BR|23|Roraima,"Exact country, region ID and name",10
+BR,BR|24|São Paulo,24,São Paulo,São Paulo,BR|24|São Paulo,"Exact country, region ID and name",10
+BR,BR|25|Santa Catarina,25,Santa Catarina,Santa Catarina,BR|25|Santa Catarina,"Exact country, region ID and name",10
+BR,BR|26|Sergipe,26,Sergipe,Sergipe,BR|26|Sergipe,"Exact country, region ID and name",10
+BR,BR|27|Tocantins,27,Tocantins,Tocantins,BR|27|Tocantins,"Exact country, region ID and name",10
+BR,BR|2|Alagoas,2,Alagoas,Alagoas,BR|2|Alagoas,"Exact country, region ID and name",10
+BR,BR|3|Amapá,3,Amapá,Amapá,BR|3|Amapá,"Exact country, region ID and name",10
+BR,BR|4|Amazonas,4,Amazonas,Amazonas,BR|4|Amazonas,"Exact country, region ID and name",10
+BR,BR|5|Bahia,5,Bahia,Bahia,BR|5|Bahia,"Exact country, region ID and name",10
+BR,BR|6|Ceará,6,Ceará,Ceará,BR|6|Ceará,"Exact country, region ID and name",10
+BR,BR|7|Distrito Federal,7,Distrito Federal,Distrito Federal,BR|7|Distrito Federal,"Exact country, region ID and name",10
+BR,BR|8|Espírito Santo,8,Espírito Santo,Espírito Santo,BR|8|Espírito Santo,"Exact country, region ID and name",10
+BR,BR|9|Goiás,9,Goiás,Goiás,BR|9|Goiás,"Exact country, region ID and name",10
+BY,BY|3|Hrodna,3,Hrodna,Hrodna,BY|3|Hrodna,"Exact country, region ID and name",4
+BY,BY|5|Minsk,5,Minsk,Minsk,BY|5|Minsk,"Exact country, region ID and name",10
+CA,CA|10|Prince Edward Island,10,Prince Edward Island,Prince Edward Island,CA|10|Prince Edward Island,"Exact country, region ID and name",8
+CA,CA|11|Québec,11,Québec,Québec,CA|11|Québec,"Exact country, region ID and name",10
+CA,CA|12|Saskatchewan,12,Saskatchewan,Saskatchewan,CA|12|Saskatchewan,"Exact country, region ID and name",10
+CA,CA|13|Yukon,13,Yukon,Yukon,CA|13|Yukon,"Exact country, region ID and name",4
+CA,CA|1|Alberta,1,Alberta,Alberta,CA|1|Alberta,"Exact country, region ID and name",10
+CA,CA|2|British Columbia,2,British Columbia,British Columbia,CA|2|British Columbia,"Exact country, region ID and name",10
+CA,CA|3|Manitoba,3,Manitoba,Manitoba,CA|3|Manitoba,"Exact country, region ID and name",10
+CA,CA|4|New Brunswick,4,New Brunswick,New Brunswick,CA|4|New Brunswick,"Exact country, region ID and name",8
+CA,CA|5|Newfoundland and Labrador,5,Newfoundland and Labrador,Newfoundland and Labrador,CA|5|Newfoundland and Labrador,"Exact country, region ID and name",8
+CA,CA|6|Northwest Territories,6,Northwest Territories,Northwest Territories,CA|6|Northwest Territories,"Exact country, region ID and name",4
+CA,CA|7|Nova Scotia,7,Nova Scotia,Nova Scotia,CA|7|Nova Scotia,"Exact country, region ID and name",10
+CA,CA|8|Nunavut,8,Nunavut,Nunavut,CA|8|Nunavut,"Exact country, region ID and name",6
+CA,CA|9|Ontario,9,Ontario,Ontario,CA|9|Ontario,"Exact country, region ID and name",10
+CH,CH|10|Graubünden,10,Graubünden,Graubünden,CH|10|Graubünden,"Exact country, region ID and name",8
+CH,CH|12|Lucerne,12,Lucerne,Lucerne,CH|12|Lucerne,"Exact country, region ID and name",8
+CH,CH|13|Neuchâtel,13,Neuchâtel,Neuchâtel,CH|13|Neuchâtel,"Exact country, region ID and name",7
+CH,CH|15|Obwalden,15,Obwalden,Obwalden,CH|15|Obwalden,"Exact country, region ID and name",6
+CH,CH|16|Sankt Gallen,16,Sankt Gallen,Sankt Gallen,CH|16|Sankt Gallen,"Exact country, region ID and name",8
+CH,CH|19|Solothurn,19,Solothurn,Solothurn,CH|19|Solothurn,"Exact country, region ID and name",6
+CH,CH|1|Aargau,1,Aargau,Aargau,CH|1|Aargau,"Exact country, region ID and name",7
+CH,CH|20|Thurgau,20,Thurgau,Thurgau,CH|20|Thurgau,"Exact country, region ID and name",5
+CH,CH|21|Ticino,21,Ticino,Ticino,CH|21|Ticino,"Exact country, region ID and name",8
+CH,CH|23|Valais,23,Valais,Valais,CH|23|Valais,"Exact country, region ID and name",9
+CH,CH|24|Vaud,24,Vaud,Vaud,CH|24|Vaud,"Exact country, region ID and name",10
+CH,CH|25|Zürich,25,Zürich,Zürich,CH|25|Zürich,"Exact country, region ID and name",10
+CH,CH|26|Zug,26,Zug,Zug,CH|26|Zug,"Exact country, region ID and name",5
+CH,CH|4|Basel-Landschaft,4,Basel-Landschaft,Basel-Landschaft,CH|4|Basel-Landschaft,"Exact country, region ID and name",7
+CH,CH|5|Basel-Stadt,5,Basel-Stadt,Basel-Stadt,CH|5|Basel-Stadt,"Exact country, region ID and name",8
+CH,CH|6|Bern,6,Bern,Bern,CH|6|Bern,"Exact country, region ID and name",10
+CH,CH|7|Fribourg,7,Fribourg,Fribourg,CH|7|Fribourg,"Exact country, region ID and name",8
+CH,CH|8|Genève,8,Genève,Genève,CH|8|Genève,"Exact country, region ID and name",10
+CN,CN|10|Hebei,10,Hebei,Hebei,CN|10|Hebei,"Exact country, region ID and name",6
+CN,CN|11|Heilongjiang,11,Heilongjiang,Heilongjiang,CN|11|Heilongjiang,"Exact country, region ID and name",4
+CN,CN|12|Henan,12,Henan,Henan,CN|12|Henan,"Exact country, region ID and name",5
+CN,CN|13|Hubei,13,Hubei,Hubei,CN|13|Hubei,"Exact country, region ID and name",8
+CN,CN|14|Hunan,14,Hunan,Hunan,CN|14|Hunan,"Exact country, region ID and name",4
+CN,CN|15|Jiangsu,15,Jiangsu,Jiangsu,CN|15|Jiangsu,"Exact country, region ID and name",8
+CN,CN|16|Jiangxi,16,Jiangxi,Jiangxi,CN|16|Jiangxi,"Exact country, region ID and name",4
+CN,CN|18|Liaoning,18,Liaoning,Liaoning,CN|18|Liaoning,"Exact country, region ID and name",8
+CN,CN|1|Anhui,1,Anhui,Anhui,CN|1|Anhui,"Exact country, region ID and name",5
+CN,CN|21|Qinghai,21,Qinghai,Qinghai,CN|21|Qinghai,"Exact country, region ID and name",4
+CN,CN|23|Shandong,23,Shandong,Shandong,CN|23|Shandong,"Exact country, region ID and name",6
+CN,CN|24|Shanghai,24,Shanghai,Shanghai,CN|24|Shanghai,"Exact country, region ID and name",10
+CN,CN|26|Sichuan,26,Sichuan,Sichuan,CN|26|Sichuan,"Exact country, region ID and name",7
+CN,CN|27|Tianjin,27,Tianjin,Tianjin,CN|27|Tianjin,"Exact country, region ID and name",5
+CN,CN|2|Beijing,2,Beijing,Beijing,CN|2|Beijing,"Exact country, region ID and name",10
+CN,CN|30|Yunnan,30,Yunnan,Yunnan,CN|30|Yunnan,"Exact country, region ID and name",5
+CN,CN|31|Zhejiang,31,Zhejiang,Zhejiang,CN|31|Zhejiang,"Exact country, region ID and name",8
+CN,CN|4|Fujian,4,Fujian,Fujian,CN|4|Fujian,"Exact country, region ID and name",8
+CN,CN|5|Gansu,5,Gansu,Gansu,CN|5|Gansu,"Exact country, region ID and name",5
+CN,CN|6|Guangdong,6,Guangdong,Guangdong,CN|6|Guangdong,"Exact country, region ID and name",10
+CN,CN|7|Guangxi,7,Guangxi,Guangxi,CN|7|Guangxi,"Exact country, region ID and name",6
+CZ,CZ|11|Plzeňský,11,Plzeňský,Plze?ský,CZ|11|Plze?ský,Unique country/ID; legacy '?' encoding,5
+CZ,CZ|12|Prague,12,Prague,Prague,CZ|12|Prague,"Exact country, region ID and name",10
+CZ,CZ|13|Středočeský,13,Středočeský,St?edo?eský,CZ|13|St?edo?eský,Unique country/ID; legacy '?' encoding,7
+CZ,CZ|1|Ústecký,1,Ústecký,Ústecký,CZ|1|Ústecký,"Exact country, region ID and name",7
+CZ,CZ|2|Jihočeský,2,Jihočeský,Jiho?eský,CZ|2|Jiho?eský,Unique country/ID; legacy '?' encoding,4
+CZ,CZ|3|Jihomoravský,3,Jihomoravský,Jihomoravský,CZ|3|Jihomoravský,"Exact country, region ID and name",7
+CZ,CZ|5|Královéhradecký,5,Královéhradecký,Královéhradecký,CZ|5|Královéhradecký,"Exact country, region ID and name",4
+CZ,CZ|6|Kraj Vysočina,6,Kraj Vysočina,Kraj Vyso?ina,CZ|6|Kraj Vyso?ina,Unique country/ID; legacy '?' encoding,5
+CZ,CZ|7|Liberecký,7,Liberecký,Liberecký,CZ|7|Liberecký,"Exact country, region ID and name",4
+CZ,CZ|8|Moravskoslezský,8,Moravskoslezský,Moravskoslezský,CZ|8|Moravskoslezský,"Exact country, region ID and name",5
+DE,DE|10|Nordrhein-Westfalen,10,Nordrhein-Westfalen,Nordrhein-Westfalen,DE|10|Nordrhein-Westfalen,"Exact country, region ID and name",10
+DE,DE|11|Rheinland-Pfalz,11,Rheinland-Pfalz,Rheinland-Pfalz,DE|11|Rheinland-Pfalz,"Exact country, region ID and name",10
+DE,DE|12|Saarland,12,Saarland,Saarland,DE|12|Saarland,"Exact country, region ID and name",8
+DE,DE|13|Sachsen-Anhalt,13,Sachsen-Anhalt,Sachsen-Anhalt,DE|13|Sachsen-Anhalt,"Exact country, region ID and name",9
+DE,DE|14|Sachsen,14,Sachsen,Sachsen,DE|14|Sachsen,"Exact country, region ID and name",9
+DE,DE|15|Schleswig-Holstein,15,Schleswig-Holstein,Schleswig-Holstein,DE|15|Schleswig-Holstein,"Exact country, region ID and name",8
+DE,DE|16|Thüringen,16,Thüringen,Thüringen,DE|16|Thüringen,"Exact country, region ID and name",8
+DE,DE|1|Baden-Württemberg,1,Baden-Württemberg,Baden-Württemberg,DE|1|Baden-Württemberg,"Exact country, region ID and name",10
+DE,DE|2|Bayern,2,Bayern,Bayern,DE|2|Bayern,"Exact country, region ID and name",10
+DE,DE|3|Berlin,3,Berlin,Berlin,DE|3|Berlin,"Exact country, region ID and name",10
+DE,DE|4|Brandenburg,4,Brandenburg,Brandenburg,DE|4|Brandenburg,"Exact country, region ID and name",10
+DE,DE|5|Bremen,5,Bremen,Bremen,DE|5|Bremen,"Exact country, region ID and name",8
+DE,DE|6|Hamburg,6,Hamburg,Hamburg,DE|6|Hamburg,"Exact country, region ID and name",10
+DE,DE|7|Hessen,7,Hessen,Hessen,DE|7|Hessen,"Exact country, region ID and name",10
+DE,DE|8|Mecklenburg-Vorpommern,8,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,DE|8|Mecklenburg-Vorpommern,"Exact country, region ID and name",8
+DE,DE|9|Niedersachsen,9,Niedersachsen,Niedersachsen,DE|9|Niedersachsen,"Exact country, region ID and name",10
+DK,DK|1|Hovedstaden,1,Hovedstaden,Hovedstaden,DK|1|Hovedstaden,"Exact country, region ID and name",10
+DK,DK|2|Midtjylland,2,Midtjylland,Midtjylland,DK|2|Midtjylland,"Exact country, region ID and name",8
+DK,DK|3|Nordjylland,3,Nordjylland,Nordjylland,DK|3|Nordjylland,"Exact country, region ID and name",8
+DK,DK|4|Sjælland,4,Sjælland,Sjælland,DK|4|Sjælland,"Exact country, region ID and name",8
+DK,DK|5|Syddanmark,5,Syddanmark,Syddanmark,DK|5|Syddanmark,"Exact country, region ID and name",9
+DZ,DZ|10|Blida,10,Blida,Blida,DZ|10|Blida,"Exact country, region ID and name",6
+DZ,DZ|11|Bordj Bou Arréridj,11,Bordj Bou Arréridj,Bordj Bou Arréridj,DZ|11|Bordj Bou Arréridj,"Exact country, region ID and name",6
+DZ,DZ|12|Bouira,12,Bouira,Bouira,DZ|12|Bouira,"Exact country, region ID and name",5
+DZ,DZ|13|Boumerdès,13,Boumerdès,Boumerdès,DZ|13|Boumerdès,"Exact country, region ID and name",5
+DZ,DZ|14|Chlef,14,Chlef,Chlef,DZ|14|Chlef,"Exact country, region ID and name",6
+DZ,DZ|15|Constantine,15,Constantine,Constantine,DZ|15|Constantine,"Exact country, region ID and name",8
+DZ,DZ|16|Djelfa,16,Djelfa,Djelfa,DZ|16|Djelfa,"Exact country, region ID and name",5
+DZ,DZ|18|El Oued,18,El Oued,El Oued,DZ|18|El Oued,"Exact country, region ID and name",6
+DZ,DZ|1|Aïn Defla,1,Aïn Defla,Aïn Defla,DZ|1|Aïn Defla,"Exact country, region ID and name",5
+DZ,DZ|20|Ghardaïa,20,Ghardaïa,Ghardaïa,DZ|20|Ghardaïa,"Exact country, region ID and name",5
+DZ,DZ|21|Guelma,21,Guelma,Guelma,DZ|21|Guelma,"Exact country, region ID and name",4
+DZ,DZ|22|Illizi,22,Illizi,Illizi,DZ|22|Illizi,"Exact country, region ID and name",4
+DZ,DZ|23|Jijel,23,Jijel,Jijel,DZ|23|Jijel,"Exact country, region ID and name",6
+DZ,DZ|24|Khenchela,24,Khenchela,Khenchela,DZ|24|Khenchela,"Exact country, region ID and name",4
+DZ,DZ|25|Laghouat,25,Laghouat,Laghouat,DZ|25|Laghouat,"Exact country, region ID and name",4
+DZ,DZ|26|M'Sila,26,M'Sila,M'Sila,DZ|26|M'Sila,"Exact country, region ID and name",5
+DZ,DZ|27|Médéa,27,Médéa,Médéa,DZ|27|Médéa,"Exact country, region ID and name",5
+DZ,DZ|28|Mascara,28,Mascara,Mascara,DZ|28|Mascara,"Exact country, region ID and name",5
+DZ,DZ|29|Mila,29,Mila,Mila,DZ|29|Mila,"Exact country, region ID and name",4
+DZ,DZ|30|Mostaganem,30,Mostaganem,Mostaganem,DZ|30|Mostaganem,"Exact country, region ID and name",5
+DZ,DZ|32|Oran,32,Oran,Oran,DZ|32|Oran,"Exact country, region ID and name",8
+DZ,DZ|33|Ouargla,33,Ouargla,Ouargla,DZ|33|Ouargla,"Exact country, region ID and name",7
+DZ,DZ|34|Oum el Bouaghi,34,Oum el Bouaghi,Oum el Bouaghi,DZ|34|Oum el Bouaghi,"Exact country, region ID and name",5
+DZ,DZ|35|Relizane,35,Relizane,Relizane,DZ|35|Relizane,"Exact country, region ID and name",5
+DZ,DZ|36|Sétif,36,Sétif,Sétif,DZ|36|Sétif,"Exact country, region ID and name",7
+DZ,DZ|37|Saïda,37,Saïda,Saïda,DZ|37|Saïda,"Exact country, region ID and name",4
+DZ,DZ|38|Sidi Bel Abbès,38,Sidi Bel Abbès,Sidi Bel Abbès,DZ|38|Sidi Bel Abbès,"Exact country, region ID and name",7
+DZ,DZ|39|Skikda,39,Skikda,Skikda,DZ|39|Skikda,"Exact country, region ID and name",5
+DZ,DZ|3|Adrar,3,Adrar,Adrar,DZ|3|Adrar,"Exact country, region ID and name",6
+DZ,DZ|40|Souk Ahras,40,Souk Ahras,Souk Ahras,DZ|40|Souk Ahras,"Exact country, region ID and name",4
+DZ,DZ|41|Tébessa,41,Tébessa,Tébessa,DZ|41|Tébessa,"Exact country, region ID and name",5
+DZ,DZ|42|Tamanghasset,42,Tamanghasset,Tamanghasset,DZ|42|Tamanghasset,"Exact country, region ID and name",6
+DZ,DZ|43|Tiaret,43,Tiaret,Tiaret,DZ|43|Tiaret,"Exact country, region ID and name",5
+DZ,DZ|45|Tipaza,45,Tipaza,Tipaza,DZ|45|Tipaza,"Exact country, region ID and name",6
+DZ,DZ|47|Tizi Ouzou,47,Tizi Ouzou,Tizi Ouzou,DZ|47|Tizi Ouzou,"Exact country, region ID and name",7
+DZ,DZ|48|Tlemcen,48,Tlemcen,Tlemcen,DZ|48|Tlemcen,"Exact country, region ID and name",7
+DZ,DZ|4|Alger,4,Alger,Alger,DZ|4|Alger,"Exact country, region ID and name",10
+DZ,DZ|5|Annaba,5,Annaba,Annaba,DZ|5|Annaba,"Exact country, region ID and name",8
+DZ,DZ|7|Béjaïa,7,Béjaïa,Béjaïa,DZ|7|Béjaïa,"Exact country, region ID and name",5
+DZ,DZ|8|Batna,8,Batna,Batna,DZ|8|Batna,"Exact country, region ID and name",7
+DZ,DZ|9|Biskra,9,Biskra,Biskra,DZ|9|Biskra,"Exact country, region ID and name",5
+EE,EE|1|Harju,1,Harju,Harju,EE|1|Harju,"Exact country, region ID and name",9
+EG,EG|10|Al Minya,10,Al Minya,Al Minya,EG|10|Al Minya,"Exact country, region ID and name",8
+EG,EG|11|Al Qahirah,11,Al Qahirah,Al Qahirah,EG|11|Al Qahirah,"Exact country, region ID and name",10
+EG,EG|12|Al Qalyubiyah,12,Al Qalyubiyah,Al Qalyubiyah,EG|12|Al Qalyubiyah,"Exact country, region ID and name",10
+EG,EG|13|Al Uqsur,13,Al Uqsur,Al Uqsur,EG|13|Al Uqsur,"Exact country, region ID and name",8
+EG,EG|14|Al Wadi al Jadid,14,Al Wadi al Jadid,Al Wadi al Jadid,EG|14|Al Wadi al Jadid,"Exact country, region ID and name",7
+EG,EG|15|As Suways,15,As Suways,As Suways,EG|15|As Suways,"Exact country, region ID and name",10
+EG,EG|16|Ash Sharqiyah,16,Ash Sharqiyah,Ash Sharqiyah,EG|16|Ash Sharqiyah,"Exact country, region ID and name",10
+EG,EG|17|Aswan,17,Aswan,Aswan,EG|17|Aswan,"Exact country, region ID and name",10
+EG,EG|18|Asyut,18,Asyut,Asyut,EG|18|Asyut,"Exact country, region ID and name",9
+EG,EG|19|Bani Suwayf,19,Bani Suwayf,Bani Suwayf,EG|19|Bani Suwayf,"Exact country, region ID and name",8
+EG,EG|1|Ad Daqahliyah,1,Ad Daqahliyah,Ad Daqahliyah,EG|1|Ad Daqahliyah,"Exact country, region ID and name",10
+EG,EG|20|Bur Sa`id,20,Bur Sa`id,Bur Sa`id,EG|20|Bur Sa`id,"Exact country, region ID and name",9
+EG,EG|21|Dumyat,21,Dumyat,Dumyat,EG|21|Dumyat,"Exact country, region ID and name",9
+EG,EG|22|Janub Sina',22,Janub Sina',Janub Sina',EG|22|Janub Sina',"Exact country, region ID and name",10
+EG,EG|23|Kafr ash Shaykh,23,Kafr ash Shaykh,Kafr ash Shaykh,EG|23|Kafr ash Shaykh,"Exact country, region ID and name",9
+EG,EG|24|Matrouh,24,Matrouh,Matrouh,EG|24|Matrouh,"Exact country, region ID and name",9
+EG,EG|25|Qina,25,Qina,Qina,EG|25|Qina,"Exact country, region ID and name",8
+EG,EG|26|Shamal Sina',26,Shamal Sina',Shamal Sina',EG|26|Shamal Sina',"Exact country, region ID and name",9
+EG,EG|27|Suhaj,27,Suhaj,Suhaj,EG|27|Suhaj,"Exact country, region ID and name",9
+EG,EG|2|Al Bahr al Ahmar,2,Al Bahr al Ahmar,Al Bahr al Ahmar,EG|2|Al Bahr al Ahmar,"Exact country, region ID and name",10
+EG,EG|3|Al Buhayrah,3,Al Buhayrah,Al Buhayrah,EG|3|Al Buhayrah,"Exact country, region ID and name",10
+EG,EG|4|Al Fayyum,4,Al Fayyum,Al Fayyum,EG|4|Al Fayyum,"Exact country, region ID and name",4
+EG,EG|5|Al Gharbiyah,5,Al Gharbiyah,Al Gharbiyah,EG|5|Al Gharbiyah,"Exact country, region ID and name",10
+EG,EG|6|Al Iskandariyah,6,Al Iskandariyah,Al Iskandariyah,EG|6|Al Iskandariyah,"Exact country, region ID and name",10
+EG,EG|7|Al Isma`iliyah,7,Al Isma`iliyah,Al Isma`iliyah,EG|7|Al Isma`iliyah,"Exact country, region ID and name",8
+EG,EG|8|Al Jizah,8,Al Jizah,Al Jizah,EG|8|Al Jizah,"Exact country, region ID and name",10
+EG,EG|9|Al Minufiyah,9,Al Minufiyah,Al Minufiyah,EG|9|Al Minufiyah,"Exact country, region ID and name",6
+ES,ES|10|Comunidad Valenciana,10,Comunidad Valenciana,Comunidad Valenciana,ES|10|Comunidad Valenciana,"Exact country, region ID and name",10
+ES,ES|11|Extremadura,11,Extremadura,Extremadura,ES|11|Extremadura,"Exact country, region ID and name",10
+ES,ES|12|Galicia,12,Galicia,Galicia,ES|12|Galicia,"Exact country, region ID and name",10
+ES,ES|13|Islas Baleares,13,Islas Baleares,Islas Baleares,ES|13|Islas Baleares,"Exact country, region ID and name",10
+ES,ES|14|Islas Canarias,14,Islas Canarias,Islas Canarias,ES|14|Islas Canarias,"Exact country, region ID and name",10
+ES,ES|15|La Rioja,15,La Rioja,La Rioja,ES|15|La Rioja,"Exact country, region ID and name",10
+ES,ES|16|País Vasco,16,País Vasco,País Vasco,ES|16|País Vasco,"Exact country, region ID and name",10
+ES,ES|17|Principado de Asturias,17,Principado de Asturias,Principado de Asturias,ES|17|Principado de Asturias,"Exact country, region ID and name",10
+ES,ES|18|Región de Murcia,18,Región de Murcia,Región de Murcia,ES|18|Región de Murcia,"Exact country, region ID and name",10
+ES,ES|1|Andalucía,1,Andalucía,Andalucía,ES|1|Andalucía,"Exact country, region ID and name",10
+ES,ES|2|Aragón,2,Aragón,Aragón,ES|2|Aragón,"Exact country, region ID and name",10
+ES,ES|3|Cantabria,3,Cantabria,Cantabria,ES|3|Cantabria,"Exact country, region ID and name",10
+ES,ES|4|Castilla-La Mancha,4,Castilla-La Mancha,Castilla-La Mancha,ES|4|Castilla-La Mancha,"Exact country, region ID and name",10
+ES,ES|5|Castilla y León,5,Castilla y León,Castilla y León,ES|5|Castilla y León,"Exact country, region ID and name",10
+ES,ES|6|Cataluña,6,Cataluña,Cataluña,ES|6|Cataluña,"Exact country, region ID and name",10
+ES,ES|7|Ceuta y Melilla,7,Ceuta y Melilla,Ceuta y Melilla,ES|7|Ceuta y Melilla,"Exact country, region ID and name",8
+ES,ES|8|Comunidad de Madrid,8,Comunidad de Madrid,Comunidad de Madrid,ES|8|Comunidad de Madrid,"Exact country, region ID and name",10
+ES,ES|9|Comunidad Foral de Navarra,9,Comunidad Foral de Navarra,Comunidad Foral de Navarra,ES|9|Comunidad Foral de Navarra,"Exact country, region ID and name",10
+FI,FI|1|Eastern Finland,1,Eastern Finland,Eastern Finland,FI|1|Eastern Finland,"Exact country, region ID and name",7
+FI,FI|2|Lapland,2,Lapland,Lapland,FI|2|Lapland,"Exact country, region ID and name",5
+FI,FI|3|Oulu,3,Oulu,Oulu,FI|3|Oulu,"Exact country, region ID and name",8
+FI,FI|4|Southern Finland,4,Southern Finland,Southern Finland,FI|4|Southern Finland,"Exact country, region ID and name",10
+FI,FI|5|Western Finland,5,Western Finland,Western Finland,FI|5|Western Finland,"Exact country, region ID and name",9
+FR,FR|10|Corse,10,Corse,Corse,FR|10|Corse,"Exact country, region ID and name",8
+FR,FR|11|Franche-Comté,11,Franche-Comté,Franche-Comté,FR|11|Franche-Comté,"Exact country, region ID and name",8
+FR,FR|12|Haute-Normandie,12,Haute-Normandie,Haute-Normandie,FR|12|Haute-Normandie,"Exact country, region ID and name",9
+FR,FR|13|Languedoc-Roussillon,13,Languedoc-Roussillon,Languedoc-Roussillon,FR|13|Languedoc-Roussillon,"Exact country, region ID and name",10
+FR,FR|14|Limousin,14,Limousin,Limousin,FR|14|Limousin,"Exact country, region ID and name",8
+FR,FR|15|Lorraine,15,Lorraine,Lorraine,FR|15|Lorraine,"Exact country, region ID and name",10
+FR,FR|16|Midi-Pyrénées,16,Midi-Pyrénées,Midi-Pyrénées,FR|16|Midi-Pyrénées,"Exact country, region ID and name",10
+FR,FR|17|Nord-Pas-de-Calais,17,Nord-Pas-de-Calais,Nord-Pas-de-Calais,FR|17|Nord-Pas-de-Calais,"Exact country, region ID and name",10
+FR,FR|18|Pays de la Loire,18,Pays de la Loire,Pays de la Loire,FR|18|Pays de la Loire,"Exact country, region ID and name",10
+FR,FR|19|Picardie,19,Picardie,Picardie,FR|19|Picardie,"Exact country, region ID and name",9
+FR,FR|1|Alsace,1,Alsace,Alsace,FR|1|Alsace,"Exact country, region ID and name",9
+FR,FR|20|Poitou-Charentes,20,Poitou-Charentes,Poitou-Charentes,FR|20|Poitou-Charentes,"Exact country, region ID and name",9
+FR,FR|21|Provence-Alpes-Côte d'Azur,21,Provence-Alpes-Côte d'Azur,Provence-Alpes-Côte d'Azur,FR|21|Provence-Alpes-Côte d'Azur,"Exact country, region ID and name",10
+FR,FR|22|Rhône-Alpes,22,Rhône-Alpes,Rhône-Alpes,FR|22|Rhône-Alpes,"Exact country, region ID and name",10
+FR,FR|2|Aquitaine,2,Aquitaine,Aquitaine,FR|2|Aquitaine,"Exact country, region ID and name",10
+FR,FR|3|Auvergne,3,Auvergne,Auvergne,FR|3|Auvergne,"Exact country, region ID and name",8
+FR,FR|4|Île-de-France,4,Île-de-France,Île-de-France,FR|4|Île-de-France,"Exact country, region ID and name",10
+FR,FR|5|Basse-Normandie,5,Basse-Normandie,Basse-Normandie,FR|5|Basse-Normandie,"Exact country, region ID and name",10
+FR,FR|6|Bourgogne,6,Bourgogne,Bourgogne,FR|6|Bourgogne,"Exact country, region ID and name",9
+FR,FR|7|Bretagne,7,Bretagne,Bretagne,FR|7|Bretagne,"Exact country, region ID and name",10
+FR,FR|8|Centre,8,Centre,Centre,FR|8|Centre,"Exact country, region ID and name",10
+FR,FR|9|Champagne-Ardenne,9,Champagne-Ardenne,Champagne-Ardenne,FR|9|Champagne-Ardenne,"Exact country, region ID and name",8
+GB,GB|1|England,1,England,England,GB|1|England,"Exact country, region ID and name",10
+GB,GB|2|Northern Ireland,2,Northern Ireland,Northern Ireland,GB|2|Northern Ireland,"Exact country, region ID and name",10
+GB,GB|3|Scotland,3,Scotland,Scotland,GB|3|Scotland,"Exact country, region ID and name",10
+GB,GB|4|Wales,4,Wales,Wales,GB|4|Wales,"Exact country, region ID and name",10
+GR,GR|1|Aegean,1,Aegean,Aegean,GR|1|Aegean,"Exact country, region ID and name",10
+GR,GR|3|Attica,3,Attica,Attica,GR|3|Attica,"Exact country, region ID and name",10
+GR,GR|4|Crete,4,Crete,Crete,GR|4|Crete,"Exact country, region ID and name",10
+GR,GR|5|Epirus and Western Macedonia,5,Epirus and Western Macedonia,Epirus and Western Macedonia,GR|5|Epirus and Western Macedonia,"Exact country, region ID and name",8
+GR,GR|6|Macedonia and Thrace,6,Macedonia and Thrace,Macedonia and Thrace,GR|6|Macedonia and Thrace,"Exact country, region ID and name",10
+GR,"GR|7|Peloponnese, Western Greece and the Ionian Islands",7,"Peloponnese, Western Greece and the Ionian Islands","Peloponnese, Western Greece and the Ionian Islands","GR|7|Peloponnese, Western Greece and the Ionian Islands","Exact country, region ID and name",10
+GR,GR|8|Thessaly and Central Greece,8,Thessaly and Central Greece,Thessaly and Central Greece,GR|8|Thessaly and Central Greece,"Exact country, region ID and name",10
+HK,HK|10|Sham Shui Po,10,Sham Shui Po,Sham Shui Po,HK|10|Sham Shui Po,"Exact country, region ID and name",6
+HK,HK|11|Southern,11,Southern,Southern,HK|11|Southern,"Exact country, region ID and name",8
+HK,HK|14|Tuen Mun,14,Tuen Mun,Tuen Mun,HK|14|Tuen Mun,"Exact country, region ID and name",4
+HK,HK|15|Wan Chai,15,Wan Chai,Wan Chai,HK|15|Wan Chai,"Exact country, region ID and name",10
+HK,HK|16|Wong Tai Sin,16,Wong Tai Sin,Wong Tai Sin,HK|16|Wong Tai Sin,"Exact country, region ID and name",5
+HK,HK|17|Yau Tsim Mong,17,Yau Tsim Mong,Yau Tsim Mong,HK|17|Yau Tsim Mong,"Exact country, region ID and name",10
+HK,HK|18|Yuen Long,18,Yuen Long,Yuen Long,HK|18|Yuen Long,"Exact country, region ID and name",7
+HK,HK|1|Central and Western,1,Central and Western,Central and Western,HK|1|Central and Western,"Exact country, region ID and name",10
+HK,HK|2|Eastern,2,Eastern,Eastern,HK|2|Eastern,"Exact country, region ID and name",8
+HK,HK|3|Islands,3,Islands,Islands,HK|3|Islands,"Exact country, region ID and name",7
+HK,HK|4|Kowloon City,4,Kowloon City,Kowloon City,HK|4|Kowloon City,"Exact country, region ID and name",8
+HK,HK|5|Kwai Tsing,5,Kwai Tsing,Kwai Tsing,HK|5|Kwai Tsing,"Exact country, region ID and name",5
+HK,HK|6|Kwun Tong,6,Kwun Tong,Kwun Tong,HK|6|Kwun Tong,"Exact country, region ID and name",7
+HK,HK|9|Sha Tin,9,Sha Tin,Sha Tin,HK|9|Sha Tin,"Exact country, region ID and name",8
+HU,HU|14|Pest,14,Pest,Pest,HU|14|Pest,"Exact country, region ID and name",8
+HU,HU|5|Budapest,5,Budapest,Budapest,HU|5|Budapest,"Exact country, region ID and name",10
+HU,HU|9|Hajdú-Bihar,9,Hajdú-Bihar,Hajdú-Bihar,HU|9|Hajdú-Bihar,"Exact country, region ID and name",6
+ID,ID|10|Jawa Barat,10,Jawa Barat,Jawa Barat,ID|10|Jawa Barat,"Exact country, region ID and name",10
+ID,ID|11|Jawa Tengah,11,Jawa Tengah,Jawa Tengah,ID|11|Jawa Tengah,"Exact country, region ID and name",10
+ID,ID|12|Jawa Timur,12,Jawa Timur,Jawa Timur,ID|12|Jawa Timur,"Exact country, region ID and name",10
+ID,ID|13|Kalimantan Barat,13,Kalimantan Barat,Kalimantan Barat,ID|13|Kalimantan Barat,"Exact country, region ID and name",10
+ID,ID|14|Kalimantan Selatan,14,Kalimantan Selatan,Kalimantan Selatan,ID|14|Kalimantan Selatan,"Exact country, region ID and name",10
+ID,ID|15|Kalimantan Tengah,15,Kalimantan Tengah,Kalimantan Tengah,ID|15|Kalimantan Tengah,"Exact country, region ID and name",10
+ID,ID|16|Kalimantan Timur,16,Kalimantan Timur,Kalimantan Timur,ID|16|Kalimantan Timur,"Exact country, region ID and name",10
+ID,ID|18|Kepulauan Riau,18,Kepulauan Riau,Kepulauan Riau,ID|18|Kepulauan Riau,"Exact country, region ID and name",10
+ID,ID|19|Lampung,19,Lampung,Lampung,ID|19|Lampung,"Exact country, region ID and name",10
+ID,ID|1|Aceh,1,Aceh,Aceh,ID|1|Aceh,"Exact country, region ID and name",10
+ID,ID|21|Maluku,21,Maluku,Maluku,ID|21|Maluku,"Exact country, region ID and name",7
+ID,ID|22|Nusa Tenggara Barat,22,Nusa Tenggara Barat,Nusa Tenggara Barat,ID|22|Nusa Tenggara Barat,"Exact country, region ID and name",10
+ID,ID|23|Nusa Tenggara Timur,23,Nusa Tenggara Timur,Nusa Tenggara Timur,ID|23|Nusa Tenggara Timur,"Exact country, region ID and name",7
+ID,ID|24|Papua,24,Papua,Papua,ID|24|Papua,"Exact country, region ID and name",10
+ID,ID|25|Riau,25,Riau,Riau,ID|25|Riau,"Exact country, region ID and name",10
+ID,ID|26|Sulawesi Barat,26,Sulawesi Barat,Sulawesi Barat,ID|26|Sulawesi Barat,"Exact country, region ID and name",5
+ID,ID|27|Sulawesi Selatan,27,Sulawesi Selatan,Sulawesi Selatan,ID|27|Sulawesi Selatan,"Exact country, region ID and name",10
+ID,ID|28|Sulawesi Tengah,28,Sulawesi Tengah,Sulawesi Tengah,ID|28|Sulawesi Tengah,"Exact country, region ID and name",10
+ID,ID|29|Sulawesi Tenggara,29,Sulawesi Tenggara,Sulawesi Tenggara,ID|29|Sulawesi Tenggara,"Exact country, region ID and name",10
+ID,ID|2|Bali,2,Bali,Bali,ID|2|Bali,"Exact country, region ID and name",10
+ID,ID|30|Sulawesi Utara,30,Sulawesi Utara,Sulawesi Utara,ID|30|Sulawesi Utara,"Exact country, region ID and name",10
+ID,ID|31|Sumatera Barat,31,Sumatera Barat,Sumatera Barat,ID|31|Sumatera Barat,"Exact country, region ID and name",10
+ID,ID|32|Sumatera Selatan,32,Sumatera Selatan,Sumatera Selatan,ID|32|Sumatera Selatan,"Exact country, region ID and name",10
+ID,ID|33|Sumatera Utara,33,Sumatera Utara,Sumatera Utara,ID|33|Sumatera Utara,"Exact country, region ID and name",10
+ID,ID|34|Yogyakarta,34,Yogyakarta,Yogyakarta,ID|34|Yogyakarta,"Exact country, region ID and name",10
+ID,ID|3|Bangka-Belitung,3,Bangka-Belitung,Bangka-Belitung,ID|3|Bangka-Belitung,"Exact country, region ID and name",9
+ID,ID|4|Banten,4,Banten,Banten,ID|4|Banten,"Exact country, region ID and name",10
+ID,ID|5|Bengkulu,5,Bengkulu,Bengkulu,ID|5|Bengkulu,"Exact country, region ID and name",9
+ID,ID|6|Gorontalo,6,Gorontalo,Gorontalo,ID|6|Gorontalo,"Exact country, region ID and name",8
+ID,ID|7|Irian Jaya Barat,7,Irian Jaya Barat,Irian Jaya Barat,ID|7|Irian Jaya Barat,"Exact country, region ID and name",6
+ID,ID|8|Jakarta Raya,8,Jakarta Raya,Jakarta Raya,ID|8|Jakarta Raya,"Exact country, region ID and name",10
+ID,ID|9|Jambi,9,Jambi,Jambi,ID|9|Jambi,"Exact country, region ID and name",10
+IE,IE|10|Kilkenny,10,Kilkenny,Kilkenny,IE|10|Kilkenny,"Exact country, region ID and name",8
+IE,IE|11|Laois,11,Laois,Laoighis,IE|11|Laoighis,Unique country/ID; Laois=Laoighis,8
+IE,IE|13|Limerick,13,Limerick,Limerick,IE|13|Limerick,"Exact country, region ID and name",8
+IE,IE|14|Longford,14,Longford,Longford,IE|14|Longford,"Exact country, region ID and name",4
+IE,IE|15|Louth,15,Louth,Louth,IE|15|Louth,"Exact country, region ID and name",8
+IE,IE|16|Mayo,16,Mayo,Mayo,IE|16|Mayo,"Exact country, region ID and name",8
+IE,IE|17|Meath,17,Meath,Meath,IE|17|Meath,"Exact country, region ID and name",8
+IE,IE|18|Monaghan,18,Monaghan,Monaghan,IE|18|Monaghan,"Exact country, region ID and name",5
+IE,IE|1|Carlow,1,Carlow,Carlow,IE|1|Carlow,"Exact country, region ID and name",7
+IE,IE|20|Roscommon,20,Roscommon,Roscommon,IE|20|Roscommon,"Exact country, region ID and name",7
+IE,IE|21|Sligo,21,Sligo,Sligo,IE|21|Sligo,"Exact country, region ID and name",6
+IE,IE|22|Tipperary,22,Tipperary,Tipperary,IE|22|Tipperary,"Exact country, region ID and name",8
+IE,IE|23|Waterford,23,Waterford,Waterford,IE|23|Waterford,"Exact country, region ID and name",8
+IE,IE|24|Westmeath,24,Westmeath,Westmeath,IE|24|Westmeath,"Exact country, region ID and name",8
+IE,IE|25|Wexford,25,Wexford,Wexford,IE|25|Wexford,"Exact country, region ID and name",8
+IE,IE|26|Wicklow,26,Wicklow,Wicklow,IE|26|Wicklow,"Exact country, region ID and name",8
+IE,IE|2|Cavan,2,Cavan,Cavan,IE|2|Cavan,"Exact country, region ID and name",7
+IE,IE|3|Clare,3,Clare,Clare,IE|3|Clare,"Exact country, region ID and name",8
+IE,IE|4|Cork,4,Cork,Cork,IE|4|Cork,"Exact country, region ID and name",8
+IE,IE|5|Donegal,5,Donegal,Donegal,IE|5|Donegal,"Exact country, region ID and name",8
+IE,IE|6|Dublin,6,Dublin,Dublin,IE|6|Dublin,"Exact country, region ID and name",10
+IE,IE|7|Galway,7,Galway,Galway,IE|7|Galway,"Exact country, region ID and name",8
+IE,IE|9|Kildare,9,Kildare,Kildare,IE|9|Kildare,"Exact country, region ID and name",8
+IL,IL|2|HaDarom,2,HaDarom,HaDarom,IL|2|HaDarom,"Exact country, region ID and name",10
+IL,IL|3|Haifa,3,Haifa,Haifa,IL|3|Haifa,"Exact country, region ID and name",6
+IL,IL|4|HaMerkaz,4,HaMerkaz,HaMerkaz,IL|4|HaMerkaz,"Exact country, region ID and name",7
+IL,IL|5|HaZafon,5,HaZafon,HaZafon,IL|5|HaZafon,"Exact country, region ID and name",8
+IL,IL|6|Jerusalem,6,Jerusalem,Jerusalem,IL|6|Jerusalem,"Exact country, region ID and name",10
+IL,IL|7|Tel Aviv,7,Tel Aviv,Tel Aviv,IL|7|Tel Aviv,"Exact country, region ID and name",8
+IN,IN|10|Goa,10,Goa,Goa,IN|10|Goa,"Exact country, region ID and name",10
+IN,IN|11|Gujarat,11,Gujarat,Gujarat,IN|11|Gujarat,"Exact country, region ID and name",10
+IN,IN|12|Haryana,12,Haryana,Haryana,IN|12|Haryana,"Exact country, region ID and name",10
+IN,IN|13|Himachal Pradesh,13,Himachal Pradesh,Himachal Pradesh,IN|13|Himachal Pradesh,"Exact country, region ID and name",10
+IN,IN|14|Jammu and Kashmir,14,Jammu and Kashmir,Jammu and Kashmir,IN|14|Jammu and Kashmir,"Exact country, region ID and name",10
+IN,IN|15|Jharkhand,15,Jharkhand,Jharkhand,IN|15|Jharkhand,"Exact country, region ID and name",9
+IN,IN|16|Karnataka,16,Karnataka,Karnataka,IN|16|Karnataka,"Exact country, region ID and name",10
+IN,IN|17|Kerala,17,Kerala,Kerala,IN|17|Kerala,"Exact country, region ID and name",10
+IN,IN|19|Madhya Pradesh,19,Madhya Pradesh,Madhya Pradesh,IN|19|Madhya Pradesh,"Exact country, region ID and name",10
+IN,IN|20|Maharashtra,20,Maharashtra,Maharashtra,IN|20|Maharashtra,"Exact country, region ID and name",10
+IN,IN|21|Manipur,21,Manipur,Manipur,IN|21|Manipur,"Exact country, region ID and name",5
+IN,IN|22|Meghalaya,22,Meghalaya,Meghalaya,IN|22|Meghalaya,"Exact country, region ID and name",7
+IN,IN|24|Nagaland,24,Nagaland,Nagaland,IN|24|Nagaland,"Exact country, region ID and name",6
+IN,IN|25|NCT of Delhi,25,NCT of Delhi,NCT of Delhi,IN|25|NCT of Delhi,"Exact country, region ID and name",10
+IN,IN|26|Odisha,26,Odisha,Odisha,IN|26|Odisha,"Exact country, region ID and name",9
+IN,IN|27|Puducherry,27,Puducherry,Puducherry,IN|27|Puducherry,"Exact country, region ID and name",7
+IN,IN|28|Punjab,28,Punjab,Punjab,IN|28|Punjab,"Exact country, region ID and name",10
+IN,IN|29|Rajasthan,29,Rajasthan,Rajasthan,IN|29|Rajasthan,"Exact country, region ID and name",10
+IN,IN|2|Andhra Pradesh,2,Andhra Pradesh,Andhra Pradesh,IN|2|Andhra Pradesh,"Exact country, region ID and name",10
+IN,IN|30|Sikkim,30,Sikkim,Sikkim,IN|30|Sikkim,"Exact country, region ID and name",5
+IN,IN|31|Tamil Nadu,31,Tamil Nadu,Tamil Nadu,IN|31|Tamil Nadu,"Exact country, region ID and name",10
+IN,IN|32|Telangana,32,Telangana,Telangana,IN|32|Telangana,"Exact country, region ID and name",10
+IN,IN|33|Tripura,33,Tripura,Tripura,IN|33|Tripura,"Exact country, region ID and name",5
+IN,IN|34|Uttar Pradesh,34,Uttar Pradesh,Uttar Pradesh,IN|34|Uttar Pradesh,"Exact country, region ID and name",10
+IN,IN|35|Uttarakhand,35,Uttarakhand,Uttarakhand,IN|35|Uttarakhand,"Exact country, region ID and name",10
+IN,IN|36|West Bengal,36,West Bengal,West Bengal,IN|36|West Bengal,"Exact country, region ID and name",10
+IN,IN|3|Arunachal Pradesh,3,Arunachal Pradesh,Arunachal Pradesh,IN|3|Arunachal Pradesh,"Exact country, region ID and name",4
+IN,IN|4|Assam,4,Assam,Assam,IN|4|Assam,"Exact country, region ID and name",9
+IN,IN|5|Bihar,5,Bihar,Bihar,IN|5|Bihar,"Exact country, region ID and name",10
+IN,IN|6|Chandigarh,6,Chandigarh,Chandigarh,IN|6|Chandigarh,"Exact country, region ID and name",9
+IN,IN|7|Chhattisgarh,7,Chhattisgarh,Chhattisgarh,IN|7|Chhattisgarh,"Exact country, region ID and name",10
+IN,IN|9|Daman and Diu,9,Daman and Diu,Daman and Diu,IN|9|Daman and Diu,"Exact country, region ID and name",5
+IR,IR|24|Razavi Khorasan,24,Razavi Khorasan,Razavi Khorasan,IR|24|Razavi Khorasan,"Exact country, region ID and name",7
+IR,IR|28|Tehran,28,Tehran,Tehran,IR|28|Tehran,"Exact country, region ID and name",10
+IR,IR|30|Yazd,30,Yazd,Yazd,IR|30|Yazd,"Exact country, region ID and name",6
+IS,IS|3|Höfuðborgarsvæði,3,Höfuðborgarsvæði,Höfuðborgarsvæði,IS|3|Höfuðborgarsvæði,"Exact country, region ID and name",4
+IS,IS|4|Norðurland vestra,4,Norðurland vestra,Norðurland vestra,IS|4|Norðurland vestra,"Exact country, region ID and name",5
+IT,IT|10|Lombardia,10,Lombardia,Lombardia,IT|10|Lombardia,"Exact country, region ID and name",10
+IT,IT|11|Marche,11,Marche,Marche,IT|11|Marche,"Exact country, region ID and name",10
+IT,IT|12|Molise,12,Molise,Molise,IT|12|Molise,"Exact country, region ID and name",8
+IT,IT|13|Piemonte,13,Piemonte,Piemonte,IT|13|Piemonte,"Exact country, region ID and name",10
+IT,IT|14|Sardegna,14,Sardegna,Sardegna,IT|14|Sardegna,"Exact country, region ID and name",10
+IT,IT|15|Sicily,15,Sicily,Sicily,IT|15|Sicily,"Exact country, region ID and name",10
+IT,IT|16|Toscana,16,Toscana,Toscana,IT|16|Toscana,"Exact country, region ID and name",10
+IT,IT|17|Trentino-Alto Adige,17,Trentino-Alto Adige,Trentino-Alto Adige,IT|17|Trentino-Alto Adige,"Exact country, region ID and name",10
+IT,IT|18|Umbria,18,Umbria,Umbria,IT|18|Umbria,"Exact country, region ID and name",10
+IT,IT|19|Valle d'Aosta,19,Valle d'Aosta,Valle d'Aosta,IT|19|Valle d'Aosta,"Exact country, region ID and name",7
+IT,IT|1|Abruzzo,1,Abruzzo,Abruzzo,IT|1|Abruzzo,"Exact country, region ID and name",10
+IT,IT|20|Veneto,20,Veneto,Veneto,IT|20|Veneto,"Exact country, region ID and name",10
+IT,IT|2|Apulia,2,Apulia,Apulia,IT|2|Apulia,"Exact country, region ID and name",10
+IT,IT|3|Basilicata,3,Basilicata,Basilicata,IT|3|Basilicata,"Exact country, region ID and name",8
+IT,IT|4|Calabria,4,Calabria,Calabria,IT|4|Calabria,"Exact country, region ID and name",10
+IT,IT|5|Campania,5,Campania,Campania,IT|5|Campania,"Exact country, region ID and name",10
+IT,IT|6|Emilia-Romagna,6,Emilia-Romagna,Emilia-Romagna,IT|6|Emilia-Romagna,"Exact country, region ID and name",10
+IT,IT|7|Friuli-Venezia Giulia,7,Friuli-Venezia Giulia,Friuli-Venezia Giulia,IT|7|Friuli-Venezia Giulia,"Exact country, region ID and name",10
+IT,IT|8|Lazio,8,Lazio,Lazio,IT|8|Lazio,"Exact country, region ID and name",10
+IT,IT|9|Liguria,9,Liguria,Liguria,IT|9|Liguria,"Exact country, region ID and name",10
+JP,JP|10|Gunma,10,Gunma,Gunma,JP|10|Gunma,"Exact country, region ID and name",10
+JP,JP|11|Hiroshima,11,Hiroshima,Hiroshima,JP|11|Hiroshima,"Exact country, region ID and name",9
+JP,JP|12|Hokkaido,12,Hokkaido,Hokkaido,JP|12|Hokkaido,"Exact country, region ID and name",10
+JP,JP|13|Hyōgo,13,Hyōgo,Hy?go,JP|13|Hy?go,Unique country/ID; legacy '?' encoding,10
+JP,JP|14|Ibaraki,14,Ibaraki,Ibaraki,JP|14|Ibaraki,"Exact country, region ID and name",10
+JP,JP|15|Ishikawa,15,Ishikawa,Ishikawa,JP|15|Ishikawa,"Exact country, region ID and name",9
+JP,JP|16|Iwate,16,Iwate,Iwate,JP|16|Iwate,"Exact country, region ID and name",8
+JP,JP|17|Kagawa,17,Kagawa,Kagawa,JP|17|Kagawa,"Exact country, region ID and name",8
+JP,JP|18|Kagoshima,18,Kagoshima,Kagoshima,JP|18|Kagoshima,"Exact country, region ID and name",8
+JP,JP|19|Kanagawa,19,Kanagawa,Kanagawa,JP|19|Kanagawa,"Exact country, region ID and name",10
+JP,JP|1|Aichi,1,Aichi,Aichi,JP|1|Aichi,"Exact country, region ID and name",10
+JP,JP|20|Kochi,20,Kochi,Kochi,JP|20|Kochi,"Exact country, region ID and name",7
+JP,JP|21|Kumamoto,21,Kumamoto,Kumamoto,JP|21|Kumamoto,"Exact country, region ID and name",10
+JP,JP|22|Kyoto,22,Kyoto,Kyoto,JP|22|Kyoto,"Exact country, region ID and name",10
+JP,JP|23|Mie,23,Mie,Mie,JP|23|Mie,"Exact country, region ID and name",9
+JP,JP|24|Miyagi,24,Miyagi,Miyagi,JP|24|Miyagi,"Exact country, region ID and name",10
+JP,JP|25|Miyazaki,25,Miyazaki,Miyazaki,JP|25|Miyazaki,"Exact country, region ID and name",8
+JP,JP|26|Nagano,26,Nagano,Nagano,JP|26|Nagano,"Exact country, region ID and name",9
+JP,JP|27|Naoasaki,27,Naoasaki,Naoasaki,JP|27|Naoasaki,"Exact country, region ID and name",8
+JP,JP|28|Nara,28,Nara,Nara,JP|28|Nara,"Exact country, region ID and name",9
+JP,JP|29|Niigata,29,Niigata,Niigata,JP|29|Niigata,"Exact country, region ID and name",9
+JP,JP|2|Akita,2,Akita,Akita,JP|2|Akita,"Exact country, region ID and name",8
+JP,JP|30|Oita,30,Oita,Oita,JP|30|Oita,"Exact country, region ID and name",8
+JP,JP|31|Okayama,31,Okayama,Okayama,JP|31|Okayama,"Exact country, region ID and name",9
+JP,JP|32|Okinawa,32,Okinawa,Okinawa,JP|32|Okinawa,"Exact country, region ID and name",10
+JP,JP|33|Osaka,33,Osaka,Osaka,JP|33|Osaka,"Exact country, region ID and name",10
+JP,JP|34|Saga,34,Saga,Saga,JP|34|Saga,"Exact country, region ID and name",8
+JP,JP|35|Saitama,35,Saitama,Saitama,JP|35|Saitama,"Exact country, region ID and name",10
+JP,JP|36|Shiga,36,Shiga,Shiga,JP|36|Shiga,"Exact country, region ID and name",9
+JP,JP|37|Shimane,37,Shimane,Shimane,JP|37|Shimane,"Exact country, region ID and name",7
+JP,JP|38|Shizuoka,38,Shizuoka,Shizuoka,JP|38|Shizuoka,"Exact country, region ID and name",10
+JP,JP|39|Tochigi,39,Tochigi,Tochigi,JP|39|Tochigi,"Exact country, region ID and name",9
+JP,JP|3|Aomori,3,Aomori,Aomori,JP|3|Aomori,"Exact country, region ID and name",8
+JP,JP|40|Tokushima,40,Tokushima,Tokushima,JP|40|Tokushima,"Exact country, region ID and name",8
+JP,JP|41|Tokyo,41,Tokyo,Tokyo,JP|41|Tokyo,"Exact country, region ID and name",10
+JP,JP|42|Tottori,42,Tottori,Tottori,JP|42|Tottori,"Exact country, region ID and name",7
+JP,JP|43|Toyama,43,Toyama,Toyama,JP|43|Toyama,"Exact country, region ID and name",8
+JP,JP|44|Wakayama,44,Wakayama,Wakayama,JP|44|Wakayama,"Exact country, region ID and name",7
+JP,JP|45|Yamagata,45,Yamagata,Yamagata,JP|45|Yamagata,"Exact country, region ID and name",8
+JP,JP|46|Yamaguchi,46,Yamaguchi,Yamaguchi,JP|46|Yamaguchi,"Exact country, region ID and name",8
+JP,JP|47|Yamanashi,47,Yamanashi,Yamanashi,JP|47|Yamanashi,"Exact country, region ID and name",9
+JP,JP|4|Chiba,4,Chiba,Chiba,JP|4|Chiba,"Exact country, region ID and name",10
+JP,JP|5|Ehime,5,Ehime,Ehime,JP|5|Ehime,"Exact country, region ID and name",8
+JP,JP|6|Fukui,6,Fukui,Fukui,JP|6|Fukui,"Exact country, region ID and name",7
+JP,JP|7|Fukuoka,7,Fukuoka,Fukuoka,JP|7|Fukuoka,"Exact country, region ID and name",10
+JP,JP|8|Fukushima,8,Fukushima,Fukushima,JP|8|Fukushima,"Exact country, region ID and name",8
+JP,JP|9|Gifu,9,Gifu,Gifu,JP|9|Gifu,"Exact country, region ID and name",9
+KE,KE|10|Kajiado,10,Kajiado,Kajiado,KE|10|Kajiado,"Exact country, region ID and name",10
+KE,KE|11|Kakamega,11,Kakamega,Kakamega,KE|11|Kakamega,"Exact country, region ID and name",6
+KE,KE|12|Kericho,12,Kericho,Kericho,KE|12|Kericho,"Exact country, region ID and name",4
+KE,KE|13|Kiambu,13,Kiambu,Kiambu,KE|13|Kiambu,"Exact country, region ID and name",10
+KE,KE|14|Kilifi,14,Kilifi,Kilifi,KE|14|Kilifi,"Exact country, region ID and name",8
+KE,KE|15|Kirinyaga,15,Kirinyaga,Kirinyaga,KE|15|Kirinyaga,"Exact country, region ID and name",4
+KE,KE|16|Kisii,16,Kisii,Kisii,KE|16|Kisii,"Exact country, region ID and name",6
+KE,KE|17|Kisumu,17,Kisumu,Kisumu,KE|17|Kisumu,"Exact country, region ID and name",8
+KE,KE|18|Kitui,18,Kitui,Kitui,KE|18|Kitui,"Exact country, region ID and name",4
+KE,KE|19|Kwale,19,Kwale,Kwale,KE|19|Kwale,"Exact country, region ID and name",5
+KE,KE|1|Baringo,1,Baringo,Baringo,KE|1|Baringo,"Exact country, region ID and name",5
+KE,KE|20|Laikipia,20,Laikipia,Laikipia,KE|20|Laikipia,"Exact country, region ID and name",4
+KE,KE|22|Machakos,22,Machakos,Machakos,KE|22|Machakos,"Exact country, region ID and name",9
+KE,KE|23|Makueni,23,Makueni,Makueni,KE|23|Makueni,"Exact country, region ID and name",4
+KE,KE|26|Meru,26,Meru,Meru,KE|26|Meru,"Exact country, region ID and name",9
+KE,KE|27|Migori,27,Migori,Migori,KE|27|Migori,"Exact country, region ID and name",5
+KE,KE|28|Mombasa,28,Mombasa,Mombasa,KE|28|Mombasa,"Exact country, region ID and name",10
+KE,KE|29|Murang'a,29,Murang'a,Murang'a,KE|29|Murang'a,"Exact country, region ID and name",4
+KE,KE|2|Bomet,2,Bomet,Bomet,KE|2|Bomet,"Exact country, region ID and name",4
+KE,KE|30|Nairobi,30,Nairobi,Nairobi,KE|30|Nairobi,"Exact country, region ID and name",10
+KE,KE|31|Nakuru,31,Nakuru,Nakuru,KE|31|Nakuru,"Exact country, region ID and name",10
+KE,KE|32|Nandi,32,Nandi,Nandi,KE|32|Nandi,"Exact country, region ID and name",4
+KE,KE|33|Narok,33,Narok,Narok,KE|33|Narok,"Exact country, region ID and name",6
+KE,KE|34|Nyamira,34,Nyamira,Nyamira,KE|34|Nyamira,"Exact country, region ID and name",4
+KE,KE|36|Nyeri,36,Nyeri,Nyeri,KE|36|Nyeri,"Exact country, region ID and name",7
+KE,KE|37|Samburu,37,Samburu,Samburu,KE|37|Samburu,"Exact country, region ID and name",5
+KE,KE|38|Siaya,38,Siaya,Siaya,KE|38|Siaya,"Exact country, region ID and name",4
+KE,KE|39|Taita Taveta,39,Taita Taveta,Taita Taveta,KE|39|Taita Taveta,"Exact country, region ID and name",4
+KE,KE|3|Bungoma,3,Bungoma,Bungoma,KE|3|Bungoma,"Exact country, region ID and name",6
+KE,KE|40|Tana River,40,Tana River,Tana River,KE|40|Tana River,"Exact country, region ID and name",5
+KE,KE|42|Trans Nzoia,42,Trans Nzoia,Trans Nzoia,KE|42|Trans Nzoia,"Exact country, region ID and name",4
+KE,KE|43|Turkana,43,Turkana,Turkana,KE|43|Turkana,"Exact country, region ID and name",5
+KE,KE|44|Uasin Gishu,44,Uasin Gishu,Uasin Gishu,KE|44|Uasin Gishu,"Exact country, region ID and name",10
+KE,KE|45|Vihiga,45,Vihiga,Vihiga,KE|45|Vihiga,"Exact country, region ID and name",5
+KE,KE|46|Wajir,46,Wajir,Wajir,KE|46|Wajir,"Exact country, region ID and name",4
+KE,KE|4|Busia,4,Busia,Busia,KE|4|Busia,"Exact country, region ID and name",4
+KE,KE|6|Embu,6,Embu,Embu,KE|6|Embu,"Exact country, region ID and name",4
+KE,KE|7|Garissa,7,Garissa,Garissa,KE|7|Garissa,"Exact country, region ID and name",6
+KE,KE|8|Homa Bay,8,Homa Bay,Homa Bay,KE|8|Homa Bay,"Exact country, region ID and name",5
+KR,KR|10|Gyeongsangnam-do,10,Gyeongsangnam-do,Gyeongsangnam-do,KR|10|Gyeongsangnam-do,"Exact country, region ID and name",8
+KR,KR|11|Incheon,11,Incheon,Incheon,KR|11|Incheon,"Exact country, region ID and name",10
+KR,KR|12|Jeju,12,Jeju,Jeju,KR|12|Jeju,"Exact country, region ID and name",8
+KR,KR|13|Jeollabuk-do,13,Jeollabuk-do,Jeollabuk-do,KR|13|Jeollabuk-do,"Exact country, region ID and name",8
+KR,KR|14|Jeollanam-do,14,Jeollanam-do,Jeollanam-do,KR|14|Jeollanam-do,"Exact country, region ID and name",8
+KR,KR|16|Seoul,16,Seoul,Seoul,KR|16|Seoul,"Exact country, region ID and name",10
+KR,KR|17|Ulsan,17,Ulsan,Ulsan,KR|17|Ulsan,"Exact country, region ID and name",8
+KR,KR|1|Busan,1,Busan,Busan,KR|1|Busan,"Exact country, region ID and name",10
+KR,KR|2|Chungcheongbuk-do,2,Chungcheongbuk-do,Chungcheongbuk-do,KR|2|Chungcheongbuk-do,"Exact country, region ID and name",10
+KR,KR|3|Chungcheongnam-do,3,Chungcheongnam-do,Chungcheongnam-do,KR|3|Chungcheongnam-do,"Exact country, region ID and name",8
+KR,KR|4|Daegu,4,Daegu,Daegu,KR|4|Daegu,"Exact country, region ID and name",8
+KR,KR|5|Daejeon,5,Daejeon,Daejeon,KR|5|Daejeon,"Exact country, region ID and name",8
+KR,KR|6|Gangwon-do,6,Gangwon-do,Gangwon-do,KR|6|Gangwon-do,"Exact country, region ID and name",9
+KR,KR|7|Gwangju,7,Gwangju,Gwangju,KR|7|Gwangju,"Exact country, region ID and name",8
+KR,KR|8|Gyeonggi-do,8,Gyeonggi-do,Gyeonggi-do,KR|8|Gyeonggi-do,"Exact country, region ID and name",10
+KR,KR|9|Gyeongsangbuk-do,9,Gyeongsangbuk-do,Gyeongsangbuk-do,KR|9|Gyeongsangbuk-do,"Exact country, region ID and name",8
+LT,LT|10|Vilniaus,10,Vilniaus,Vilniaus,LT|10|Vilniaus,"Exact country, region ID and name",7
+LU,LU|3|Luxembourg,3,Luxembourg,Luxembourg,LU|3|Luxembourg,"Exact country, region ID and name",8
+LV,LV|1|Kurzeme,1,Kurzeme,Kurzeme,LV|1|Kurzeme,"Exact country, region ID and name",7
+LV,LV|3|Riga,3,Riga,Riga,LV|3|Riga,"Exact country, region ID and name",9
+LV,LV|4|Vidzeme,4,Vidzeme,Vidzeme,LV|4|Vidzeme,"Exact country, region ID and name",6
+LV,LV|5|Zemgale,5,Zemgale,Zemgale,LV|5|Zemgale,"Exact country, region ID and name",7
+MA,MA|10|Oriental,10,Oriental,Oriental,MA|10|Oriental,"Exact country, region ID and name",8
+MA,MA|11|Rabat - Salé - Zemmour - Zaer,11,Rabat - Salé - Zemmour - Zaer,Rabat - Salé - Zemmour - Zaer,MA|11|Rabat - Salé - Zemmour - Zaer,"Exact country, region ID and name",8
+MA,MA|12|Souss - Massa - Draâ,12,Souss - Massa - Draâ,Souss - Massa - Draâ,MA|12|Souss - Massa - Draâ,"Exact country, region ID and name",8
+MA,MA|13|Tadla - Azilal,13,Tadla - Azilal,Tadla - Azilal,MA|13|Tadla - Azilal,"Exact country, region ID and name",4
+MA,MA|14|Tanger - Tétouan,14,Tanger - Tétouan,Tanger - Tétouan,MA|14|Tanger - Tétouan,"Exact country, region ID and name",8
+MA,MA|15|Taza - Al Hoceima - Taounate,15,Taza - Al Hoceima - Taounate,Taza - Al Hoceima - Taounate,MA|15|Taza - Al Hoceima - Taounate,"Exact country, region ID and name",6
+MA,MA|1|Chaouia - Ouardigha,1,Chaouia - Ouardigha,Chaouia - Ouardigha,MA|1|Chaouia - Ouardigha,"Exact country, region ID and name",7
+MA,MA|2|Doukkala - Abda,2,Doukkala - Abda,Doukkala - Abda,MA|2|Doukkala - Abda,"Exact country, region ID and name",8
+MA,MA|3|Fès - Boulemane,3,Fès - Boulemane,Fès - Boulemane,MA|3|Fès - Boulemane,"Exact country, region ID and name",8
+MA,MA|4|Gharb - Chrarda - Béni Hssen,4,Gharb - Chrarda - Béni Hssen,Gharb - Chrarda - Béni Hssen,MA|4|Gharb - Chrarda - Béni Hssen,"Exact country, region ID and name",7
+MA,MA|5|Grand Casablanca,5,Grand Casablanca,Grand Casablanca,MA|5|Grand Casablanca,"Exact country, region ID and name",10
+MA,MA|6|Guelmim - Es-Semara,6,Guelmim - Es-Semara,Guelmim - Es-Semara,MA|6|Guelmim - Es-Semara,"Exact country, region ID and name",5
+MA,MA|8|Marrakech - Tensift - Al Haouz,8,Marrakech - Tensift - Al Haouz,Marrakech - Tensift - Al Haouz,MA|8|Marrakech - Tensift - Al Haouz,"Exact country, region ID and name",10
+MA,MA|9|Meknès - Tafilalet,9,Meknès - Tafilalet,Meknès - Tafilalet,MA|9|Meknès - Tafilalet,"Exact country, region ID and name",8
+MX,MX|10|Durango,10,Durango,Durango,MX|10|Durango,"Exact country, region ID and name",9
+MX,MX|11|Guanajuato,11,Guanajuato,Guanajuato,MX|11|Guanajuato,"Exact country, region ID and name",10
+MX,MX|12|Guerrero,12,Guerrero,Guerrero,MX|12|Guerrero,"Exact country, region ID and name",10
+MX,MX|13|Hidalgo,13,Hidalgo,Hidalgo,MX|13|Hidalgo,"Exact country, region ID and name",10
+MX,MX|14|Jalisco,14,Jalisco,Jalisco,MX|14|Jalisco,"Exact country, region ID and name",10
+MX,MX|15|México,15,México,México,MX|15|México,"Exact country, region ID and name",10
+MX,MX|16|Michoacán,16,Michoacán,Michoacán,MX|16|Michoacán,"Exact country, region ID and name",10
+MX,MX|17|Morelos,17,Morelos,Morelos,MX|17|Morelos,"Exact country, region ID and name",10
+MX,MX|18|Nayarit,18,Nayarit,Nayarit,MX|18|Nayarit,"Exact country, region ID and name",9
+MX,MX|19|Nuevo León,19,Nuevo León,Nuevo León,MX|19|Nuevo León,"Exact country, region ID and name",10
+MX,MX|1|Aguascalientes,1,Aguascalientes,Aguascalientes,MX|1|Aguascalientes,"Exact country, region ID and name",10
+MX,MX|20|Oaxaca,20,Oaxaca,Oaxaca,MX|20|Oaxaca,"Exact country, region ID and name",10
+MX,MX|21|Puebla,21,Puebla,Puebla,MX|21|Puebla,"Exact country, region ID and name",10
+MX,MX|22|Querétaro,22,Querétaro,Querétaro,MX|22|Querétaro,"Exact country, region ID and name",10
+MX,MX|23|Quintana Roo,23,Quintana Roo,Quintana Roo,MX|23|Quintana Roo,"Exact country, region ID and name",10
+MX,MX|24|San Luis Potosí,24,San Luis Potosí,San Luis Potosí,MX|24|San Luis Potosí,"Exact country, region ID and name",10
+MX,MX|25|Sinaloa,25,Sinaloa,Sinaloa,MX|25|Sinaloa,"Exact country, region ID and name",10
+MX,MX|26|Sonora,26,Sonora,Sonora,MX|26|Sonora,"Exact country, region ID and name",10
+MX,MX|27|Tabasco,27,Tabasco,Tabasco,MX|27|Tabasco,"Exact country, region ID and name",10
+MX,MX|28|Tamaulipas,28,Tamaulipas,Tamaulipas,MX|28|Tamaulipas,"Exact country, region ID and name",10
+MX,MX|29|Tlaxcala,29,Tlaxcala,Tlaxcala,MX|29|Tlaxcala,"Exact country, region ID and name",9
+MX,MX|2|Baja California Sur,2,Baja California Sur,Baja California Sur,MX|2|Baja California Sur,"Exact country, region ID and name",10
+MX,MX|30|Veracruz,30,Veracruz,Veracruz,MX|30|Veracruz,"Exact country, region ID and name",10
+MX,MX|31|Yucatán,31,Yucatán,Yucatán,MX|31|Yucatán,"Exact country, region ID and name",10
+MX,MX|32|Zacatecas,32,Zacatecas,Zacatecas,MX|32|Zacatecas,"Exact country, region ID and name",10
+MX,MX|3|Baja California,3,Baja California,Baja California,MX|3|Baja California,"Exact country, region ID and name",10
+MX,MX|4|Campeche,4,Campeche,Campeche,MX|4|Campeche,"Exact country, region ID and name",10
+MX,MX|5|Chiapas,5,Chiapas,Chiapas,MX|5|Chiapas,"Exact country, region ID and name",10
+MX,MX|6|Chihuahua,6,Chihuahua,Chihuahua,MX|6|Chihuahua,"Exact country, region ID and name",10
+MX,MX|7|Coahuila,7,Coahuila,Coahuila,MX|7|Coahuila,"Exact country, region ID and name",10
+MX,MX|8|Colima,8,Colima,Colima,MX|8|Colima,"Exact country, region ID and name",8
+MX,MX|9|Distrito Federal,9,Distrito Federal,Distrito Federal,MX|9|Distrito Federal,"Exact country, region ID and name",10
+NG,NG|10|Delta,10,Delta,Delta,NG|10|Delta,"Exact country, region ID and name",10
+NG,NG|11|Ebonyi,11,Ebonyi,Ebonyi,NG|11|Ebonyi,"Exact country, region ID and name",8
+NG,NG|12|Edo,12,Edo,Edo,NG|12|Edo,"Exact country, region ID and name",10
+NG,NG|13|Ekiti,13,Ekiti,Ekiti,NG|13|Ekiti,"Exact country, region ID and name",10
+NG,NG|14|Enugu,14,Enugu,Enugu,NG|14|Enugu,"Exact country, region ID and name",10
+NG,NG|15|Federal Capital Territory,15,Federal Capital Territory,Federal Capital Territory,NG|15|Federal Capital Territory,"Exact country, region ID and name",10
+NG,NG|16|Gombe,16,Gombe,Gombe,NG|16|Gombe,"Exact country, region ID and name",9
+NG,NG|17|Imo,17,Imo,Imo,NG|17|Imo,"Exact country, region ID and name",10
+NG,NG|18|Jigawa,18,Jigawa,Jigawa,NG|18|Jigawa,"Exact country, region ID and name",8
+NG,NG|19|Kaduna,19,Kaduna,Kaduna,NG|19|Kaduna,"Exact country, region ID and name",10
+NG,NG|1|Abia,1,Abia,Abia,NG|1|Abia,"Exact country, region ID and name",9
+NG,NG|20|Kano,20,Kano,Kano,NG|20|Kano,"Exact country, region ID and name",10
+NG,NG|21|Katsina,21,Katsina,Katsina,NG|21|Katsina,"Exact country, region ID and name",10
+NG,NG|22|Kebbi,22,Kebbi,Kebbi,NG|22|Kebbi,"Exact country, region ID and name",8
+NG,NG|23|Kogi,23,Kogi,Kogi,NG|23|Kogi,"Exact country, region ID and name",10
+NG,NG|24|Kwara,24,Kwara,Kwara,NG|24|Kwara,"Exact country, region ID and name",10
+NG,NG|25|Lagos,25,Lagos,Lagos,NG|25|Lagos,"Exact country, region ID and name",10
+NG,NG|26|Nassarawa,26,Nassarawa,Nassarawa,NG|26|Nassarawa,"Exact country, region ID and name",10
+NG,NG|27|Niger,27,Niger,Niger,NG|27|Niger,"Exact country, region ID and name",10
+NG,NG|28|Ogun,28,Ogun,Ogun,NG|28|Ogun,"Exact country, region ID and name",10
+NG,NG|29|Ondo,29,Ondo,Ondo,NG|29|Ondo,"Exact country, region ID and name",10
+NG,NG|2|Adamawa,2,Adamawa,Adamawa,NG|2|Adamawa,"Exact country, region ID and name",10
+NG,NG|30|Osun,30,Osun,Osun,NG|30|Osun,"Exact country, region ID and name",10
+NG,NG|31|Oyo,31,Oyo,Oyo,NG|31|Oyo,"Exact country, region ID and name",10
+NG,NG|32|Plateau,32,Plateau,Plateau,NG|32|Plateau,"Exact country, region ID and name",10
+NG,NG|33|Rivers,33,Rivers,Rivers,NG|33|Rivers,"Exact country, region ID and name",10
+NG,NG|34|Sokoto,34,Sokoto,Sokoto,NG|34|Sokoto,"Exact country, region ID and name",10
+NG,NG|35|Taraba,35,Taraba,Taraba,NG|35|Taraba,"Exact country, region ID and name",8
+NG,NG|36|Yobe,36,Yobe,Yobe,NG|36|Yobe,"Exact country, region ID and name",8
+NG,NG|37|Zamfara,37,Zamfara,Zamfara,NG|37|Zamfara,"Exact country, region ID and name",8
+NG,NG|3|Akwa Ibom,3,Akwa Ibom,Akwa Ibom,NG|3|Akwa Ibom,"Exact country, region ID and name",10
+NG,NG|4|Anambra,4,Anambra,Anambra,NG|4|Anambra,"Exact country, region ID and name",10
+NG,NG|5|Bauchi,5,Bauchi,Bauchi,NG|5|Bauchi,"Exact country, region ID and name",10
+NG,NG|6|Bayelsa,6,Bayelsa,Bayelsa,NG|6|Bayelsa,"Exact country, region ID and name",8
+NG,NG|7|Benue,7,Benue,Benue,NG|7|Benue,"Exact country, region ID and name",10
+NG,NG|8|Borno,8,Borno,Borno,NG|8|Borno,"Exact country, region ID and name",10
+NG,NG|9|Cross River,9,Cross River,Cross River,NG|9|Cross River,"Exact country, region ID and name",10
+NL,NL|10|Overijssel,10,Overijssel,Overijssel,NL|10|Overijssel,"Exact country, region ID and name",8
+NL,NL|11|Utrecht,11,Utrecht,Utrecht,NL|11|Utrecht,"Exact country, region ID and name",9
+NL,NL|12|Zeeland,12,Zeeland,Zeeland,NL|12|Zeeland,"Exact country, region ID and name",8
+NL,NL|13|Zeeuwse meren,13,Zeeuwse meren,Zeeuwse meren,NL|13|Zeeuwse meren,"Exact country, region ID and name",4
+NL,NL|14|Zuid-Holland,14,Zuid-Holland,Zuid-Holland,NL|14|Zuid-Holland,"Exact country, region ID and name",10
+NL,NL|1|Drenthe,1,Drenthe,Drenthe,NL|1|Drenthe,"Exact country, region ID and name",8
+NL,NL|2|Flevoland,2,Flevoland,Flevoland,NL|2|Flevoland,"Exact country, region ID and name",8
+NL,NL|3|Friesland,3,Friesland,Friesland,NL|3|Friesland,"Exact country, region ID and name",10
+NL,NL|4|Gelderland,4,Gelderland,Gelderland,NL|4|Gelderland,"Exact country, region ID and name",10
+NL,NL|5|Groningen,5,Groningen,Groningen,NL|5|Groningen,"Exact country, region ID and name",8
+NL,NL|6|IJsselmeer,6,IJsselmeer,IJsselmeer,NL|6|IJsselmeer,"Exact country, region ID and name",5
+NL,NL|7|Limburg,7,Limburg,Limburg,NL|7|Limburg,"Exact country, region ID and name",8
+NL,NL|8|Noord-Brabant,8,Noord-Brabant,Noord-Brabant,NL|8|Noord-Brabant,"Exact country, region ID and name",10
+NL,NL|9|Noord-Holland,9,Noord-Holland,Noord-Holland,NL|9|Noord-Holland,"Exact country, region ID and name",10
+NO,NO|10|Nordland,10,Nordland,Nordland,NO|10|Nordland,"Exact country, region ID and name",4
+NO,NO|11|Oppland,11,Oppland,Oppland,NO|11|Oppland,"Exact country, region ID and name",7
+NO,NO|12|Oslo,12,Oslo,Oslo,NO|12|Oslo,"Exact country, region ID and name",10
+NO,NO|13|Rogaland,13,Rogaland,Rogaland,NO|13|Rogaland,"Exact country, region ID and name",8
+NO,NO|14|Sør-Trøndelag,14,Sør-Trøndelag,Sør-Trøndelag,NO|14|Sør-Trøndelag,"Exact country, region ID and name",8
+NO,NO|15|Sogn og Fjordane,15,Sogn og Fjordane,Sogn og Fjordane,NO|15|Sogn og Fjordane,"Exact country, region ID and name",5
+NO,NO|16|Telemark,16,Telemark,Telemark,NO|16|Telemark,"Exact country, region ID and name",5
+NO,NO|17|Troms,17,Troms,Troms,NO|17|Troms,"Exact country, region ID and name",7
+NO,NO|18|Vest-Agder,18,Vest-Agder,Vest-Agder,NO|18|Vest-Agder,"Exact country, region ID and name",8
+NO,NO|19|Vestfold,19,Vestfold,Vestfold,NO|19|Vestfold,"Exact country, region ID and name",8
+NO,NO|1|Ãstfold,1,Ãstfold,Ãstfold,NO|1|Ãstfold,"Exact country, region ID and name",8
+NO,NO|2|Akershus,2,Akershus,Akershus,NO|2|Akershus,"Exact country, region ID and name",8
+NO,NO|4|Buskerud,4,Buskerud,Buskerud,NO|4|Buskerud,"Exact country, region ID and name",8
+NO,NO|6|Hedmark,6,Hedmark,Hedmark,NO|6|Hedmark,"Exact country, region ID and name",8
+NO,NO|7|Hordaland,7,Hordaland,Hordaland,NO|7|Hordaland,"Exact country, region ID and name",8
+NO,NO|8|Møre og Romsdal,8,Møre og Romsdal,Møre og Romsdal,NO|8|Møre og Romsdal,"Exact country, region ID and name",7
+NO,NO|9|Nord-Trøndelag,9,Nord-Trøndelag,Nord-Trøndelag,NO|9|Nord-Trøndelag,"Exact country, region ID and name",5
+PH,PH|10|Bataan,10,Bataan,Bataan,PH|10|Bataan,"Exact country, region ID and name",9
+PH,PH|12|Batangas,12,Batangas,Batangas,PH|12|Batangas,"Exact country, region ID and name",9
+PH,PH|13|Benguet,13,Benguet,Benguet,PH|13|Benguet,"Exact country, region ID and name",9
+PH,PH|15|Bohol,15,Bohol,Bohol,PH|15|Bohol,"Exact country, region ID and name",9
+PH,PH|16|Bukidnon,16,Bukidnon,Bukidnon,PH|16|Bukidnon,"Exact country, region ID and name",9
+PH,PH|17|Bulacan,17,Bulacan,Bulacan,PH|17|Bulacan,"Exact country, region ID and name",9
+PH,PH|18|Cagayan,18,Cagayan,Cagayan,PH|18|Cagayan,"Exact country, region ID and name",9
+PH,PH|19|Camarines Norte,19,Camarines Norte,Camarines Norte,PH|19|Camarines Norte,"Exact country, region ID and name",7
+PH,PH|20|Camarines Sur,20,Camarines Sur,Camarines Sur,PH|20|Camarines Sur,"Exact country, region ID and name",9
+PH,PH|22|Capiz,22,Capiz,Capiz,PH|22|Capiz,"Exact country, region ID and name",9
+PH,PH|24|Cavite,24,Cavite,Cavite,PH|24|Cavite,"Exact country, region ID and name",9
+PH,PH|25|Cebu,25,Cebu,Cebu,PH|25|Cebu,"Exact country, region ID and name",9
+PH,PH|26|Compostela Valley,26,Compostela Valley,Compostela Valley,PH|26|Compostela Valley,"Exact country, region ID and name",6
+PH,PH|27|Davao del Norte,27,Davao del Norte,Davao del Norte,PH|27|Davao del Norte,"Exact country, region ID and name",9
+PH,PH|28|Davao del Sur,28,Davao del Sur,Davao del Sur,PH|28|Davao del Sur,"Exact country, region ID and name",9
+PH,PH|29|Davao Oriental,29,Davao Oriental,Davao Oriental,PH|29|Davao Oriental,"Exact country, region ID and name",4
+PH,PH|2|Agusan del Norte,2,Agusan del Norte,Agusan del Norte,PH|2|Agusan del Norte,"Exact country, region ID and name",9
+PH,PH|34|Ilocos Norte,34,Ilocos Norte,Ilocos Norte,PH|34|Ilocos Norte,"Exact country, region ID and name",9
+PH,PH|35|Ilocos Sur,35,Ilocos Sur,Ilocos Sur,PH|35|Ilocos Sur,"Exact country, region ID and name",9
+PH,PH|36|Iloilo,36,Iloilo,Iloilo,PH|36|Iloilo,"Exact country, region ID and name",9
+PH,PH|37|Isabela,37,Isabela,Isabela,PH|37|Isabela,"Exact country, region ID and name",9
+PH,PH|39|La Union,39,La Union,La Union,PH|39|La Union,"Exact country, region ID and name",9
+PH,PH|3|Agusan del Sur,3,Agusan del Sur,Agusan del Sur,PH|3|Agusan del Sur,"Exact country, region ID and name",5
+PH,PH|40|Laguna,40,Laguna,Laguna,PH|40|Laguna,"Exact country, region ID and name",9
+PH,PH|41|Lanao del Norte,41,Lanao del Norte,Lanao del Norte,PH|41|Lanao del Norte,"Exact country, region ID and name",8
+PH,PH|42|Lanao del Sur,42,Lanao del Sur,Lanao del Sur,PH|42|Lanao del Sur,"Exact country, region ID and name",7
+PH,PH|43|Leyte,43,Leyte,Leyte,PH|43|Leyte,"Exact country, region ID and name",9
+PH,PH|44|Maguindanao,44,Maguindanao,Maguindanao,PH|44|Maguindanao,"Exact country, region ID and name",8
+PH,PH|46|Masbate,46,Masbate,Masbate,PH|46|Masbate,"Exact country, region ID and name",4
+PH,PH|47|Metropolitan Manila,47,Metropolitan Manila,Metropolitan Manila,PH|47|Metropolitan Manila,"Exact country, region ID and name",9
+PH,PH|48|Misamis Occidental,48,Misamis Occidental,Misamis Occidental,PH|48|Misamis Occidental,"Exact country, region ID and name",7
+PH,PH|49|Misamis Oriental,49,Misamis Oriental,Misamis Oriental,PH|49|Misamis Oriental,"Exact country, region ID and name",9
+PH,PH|4|Aklan,4,Aklan,Aklan,PH|4|Aklan,"Exact country, region ID and name",9
+PH,PH|51|Negros Occidental,51,Negros Occidental,Negros Occidental,PH|51|Negros Occidental,"Exact country, region ID and name",9
+PH,PH|52|Negros Oriental,52,Negros Oriental,Negros Oriental,PH|52|Negros Oriental,"Exact country, region ID and name",9
+PH,PH|53|North Cotabato,53,North Cotabato,North Cotabato,PH|53|North Cotabato,"Exact country, region ID and name",7
+PH,PH|55|Nueva Ecija,55,Nueva Ecija,Nueva Ecija,PH|55|Nueva Ecija,"Exact country, region ID and name",9
+PH,PH|56|Nueva Vizcaya,56,Nueva Vizcaya,Nueva Vizcaya,PH|56|Nueva Vizcaya,"Exact country, region ID and name",6
+PH,PH|58|Oriental Mindoro,58,Oriental Mindoro,Oriental Mindoro,PH|58|Oriental Mindoro,"Exact country, region ID and name",8
+PH,PH|59|Palawan,59,Palawan,Palawan,PH|59|Palawan,"Exact country, region ID and name",8
+PH,PH|5|Albay,5,Albay,Albay,PH|5|Albay,"Exact country, region ID and name",9
+PH,PH|60|Pampanga,60,Pampanga,Pampanga,PH|60|Pampanga,"Exact country, region ID and name",9
+PH,PH|61|Pangasinan,61,Pangasinan,Pangasinan,PH|61|Pangasinan,"Exact country, region ID and name",9
+PH,PH|62|Quezon,62,Quezon,Quezon,PH|62|Quezon,"Exact country, region ID and name",9
+PH,PH|64|Rizal,64,Rizal,Rizal,PH|64|Rizal,"Exact country, region ID and name",9
+PH,PH|66|Samar,66,Samar,Samar,PH|66|Samar,"Exact country, region ID and name",6
+PH,PH|67|Sarangani,67,Sarangani,Sarangani,PH|67|Sarangani,"Exact country, region ID and name",5
+PH,PH|69|Sorsogon,69,Sorsogon,Sorsogon,PH|69|Sorsogon,"Exact country, region ID and name",4
+PH,PH|6|Antique,6,Antique,Antique,PH|6|Antique,"Exact country, region ID and name",5
+PH,PH|70|South Cotabato,70,South Cotabato,South Cotabato,PH|70|South Cotabato,"Exact country, region ID and name",9
+PH,PH|72|Sultan Kudarat,72,Sultan Kudarat,Sultan Kudarat,PH|72|Sultan Kudarat,"Exact country, region ID and name",7
+PH,PH|74|Surigao del Norte,74,Surigao del Norte,Surigao del Norte,PH|74|Surigao del Norte,"Exact country, region ID and name",6
+PH,PH|75|Surigao del Sur,75,Surigao del Sur,Surigao del Sur,PH|75|Surigao del Sur,"Exact country, region ID and name",5
+PH,PH|76|Tarlac,76,Tarlac,Tarlac,PH|76|Tarlac,"Exact country, region ID and name",9
+PH,PH|78|Zambales,78,Zambales,Zambales,PH|78|Zambales,"Exact country, region ID and name",9
+PH,PH|79|Zamboanga del Norte,79,Zamboanga del Norte,Zamboanga del Norte,PH|79|Zamboanga del Norte,"Exact country, region ID and name",6
+PH,PH|80|Zamboanga del Sur,80,Zamboanga del Sur,Zamboanga del Sur,PH|80|Zamboanga del Sur,"Exact country, region ID and name",9
+PH,PH|8|Aurora,8,Aurora,Aurora,PH|8|Aurora,"Exact country, region ID and name",6
+PL,PL|10|Opole,10,Opole,Opole,PL|10|Opole,"Exact country, region ID and name",8
+PL,PL|11|Podlachian,11,Podlachian,Podlachian,PL|11|Podlachian,"Exact country, region ID and name",7
+PL,PL|12|Pomeranian,12,Pomeranian,Pomeranian,PL|12|Pomeranian,"Exact country, region ID and name",8
+PL,PL|13|Silesian,13,Silesian,Silesian,PL|13|Silesian,"Exact country, region ID and name",9
+PL,PL|14|Subcarpathian,14,Subcarpathian,Subcarpathian,PL|14|Subcarpathian,"Exact country, region ID and name",8
+PL,PL|15|Warmian-Masurian,15,Warmian-Masurian,Warmian-Masurian,PL|15|Warmian-Masurian,"Exact country, region ID and name",8
+PL,PL|16|West Pomeranian,16,West Pomeranian,West Pomeranian,PL|16|West Pomeranian,"Exact country, region ID and name",8
+PL,PL|1|Łódź,1,Łódź,?ód?,PL|1|?ód?,Unique country/ID; legacy '?' encoding,10
+PL,PL|2|Świętokrzyskie,2,Świętokrzyskie,?wi?tokrzyskie,PL|2|?wi?tokrzyskie,Unique country/ID; legacy '?' encoding,8
+PL,PL|3|Greater Poland,3,Greater Poland,Greater Poland,PL|3|Greater Poland,"Exact country, region ID and name",8
+PL,PL|4|Kuyavian-Pomeranian,4,Kuyavian-Pomeranian,Kuyavian-Pomeranian,PL|4|Kuyavian-Pomeranian,"Exact country, region ID and name",8
+PL,PL|5|Lesser Poland,5,Lesser Poland,Lesser Poland,PL|5|Lesser Poland,"Exact country, region ID and name",10
+PL,PL|6|Lower Silesian,6,Lower Silesian,Lower Silesian,PL|6|Lower Silesian,"Exact country, region ID and name",9
+PL,PL|7|Lublin,7,Lublin,Lublin,PL|7|Lublin,"Exact country, region ID and name",8
+PL,PL|8|Lubusz,8,Lubusz,Lubusz,PL|8|Lubusz,"Exact country, region ID and name",8
+PL,PL|9|Masovian,9,Masovian,Masovian,PL|9|Masovian,"Exact country, region ID and name",10
+PT,PT|10|Guarda,10,Guarda,Guarda,PT|10|Guarda,"Exact country, region ID and name",5
+PT,PT|11|Leiria,11,Leiria,Leiria,PT|11|Leiria,"Exact country, region ID and name",9
+PT,PT|12|Lisboa,12,Lisboa,Lisboa,PT|12|Lisboa,"Exact country, region ID and name",10
+PT,PT|13|Madeira,13,Madeira,Madeira,PT|13|Madeira,"Exact country, region ID and name",8
+PT,PT|14|Portalegre,14,Portalegre,Portalegre,PT|14|Portalegre,"Exact country, region ID and name",7
+PT,PT|15|Porto,15,Porto,Porto,PT|15|Porto,"Exact country, region ID and name",10
+PT,PT|16|Santarém,16,Santarém,Santarém,PT|16|Santarém,"Exact country, region ID and name",10
+PT,PT|17|Setúbal,17,Setúbal,Setúbal,PT|17|Setúbal,"Exact country, region ID and name",10
+PT,PT|18|Viana do Castelo,18,Viana do Castelo,Viana do Castelo,PT|18|Viana do Castelo,"Exact country, region ID and name",7
+PT,PT|19|Vila Real,19,Vila Real,Vila Real,PT|19|Vila Real,"Exact country, region ID and name",8
+PT,PT|1|Évora,1,Évora,Évora,PT|1|Évora,"Exact country, region ID and name",8
+PT,PT|20|Viseu,20,Viseu,Viseu,PT|20|Viseu,"Exact country, region ID and name",8
+PT,PT|2|Aveiro,2,Aveiro,Aveiro,PT|2|Aveiro,"Exact country, region ID and name",10
+PT,PT|3|Azores,3,Azores,Azores,PT|3|Azores,"Exact country, region ID and name",7
+PT,PT|4|Beja,4,Beja,Beja,PT|4|Beja,"Exact country, region ID and name",8
+PT,PT|5|Braga,5,Braga,Braga,PT|5|Braga,"Exact country, region ID and name",10
+PT,PT|6|Bragança,6,Bragança,Bragança,PT|6|Bragança,"Exact country, region ID and name",7
+PT,PT|7|Castelo Branco,7,Castelo Branco,Castelo Branco,PT|7|Castelo Branco,"Exact country, region ID and name",8
+PT,PT|8|Coimbra,8,Coimbra,Coimbra,PT|8|Coimbra,"Exact country, region ID and name",10
+PT,PT|9|Faro,9,Faro,Faro,PT|9|Faro,"Exact country, region ID and name",10
+RO,RO|10|Bucharest,10,Bucharest,Bucharest,RO|10|Bucharest,"Exact country, region ID and name",10
+RO,RO|14|Cluj,14,Cluj,Cluj,RO|14|Cluj,"Exact country, region ID and name",6
+RO,RO|15|Constanța,15,Constanța,Constan?a,RO|15|Constan?a,Unique country/ID; legacy '?' encoding,6
+RO,RO|26|Ilfov,26,Ilfov,Ilfov,RO|26|Ilfov,"Exact country, region ID and name",5
+RO,RO|38|Timiș,38,Timiș,Timi?,RO|38|Timi?,Unique country/ID; legacy '?' encoding,4
+RO,RO|5|Bihor,5,Bihor,Bihor,RO|5|Bihor,"Exact country, region ID and name",4
+RO,RO|8|Brașov,8,Brașov,Bra?ov,RO|8|Bra?ov,Unique country/ID; legacy '?' encoding,5
+RS,RS|10|Moravički,10,Moravički,Moravi?ki,RS|10|Moravi?ki,Unique country/ID; legacy '?' encoding,5
+RS,RS|11|Nišavski,11,Nišavski,Ni?avski,RS|11|Ni?avski,Unique country/ID; legacy '?' encoding,6
+RS,RS|16|Raški,16,Raški,Ra?ki,RS|16|Ra?ki,Unique country/ID; legacy '?' encoding,6
+RS,RS|1|Šumadijski,1,Šumadijski,?umadijski,RS|1|?umadijski,Unique country/ID; legacy '?' encoding,7
+RS,RS|20|Srednje-Banatski,20,Srednje-Banatski,Srednje-Banatski,RS|20|Srednje-Banatski,"Exact country, region ID and name",6
+RS,RS|21|Sremski,21,Sremski,Sremski,RS|21|Sremski,"Exact country, region ID and name",7
+RS,RS|25|Zlatiborski,25,Zlatiborski,Zlatiborski,RS|25|Zlatiborski,"Exact country, region ID and name",5
+RS,RS|4|Grad Beograd,4,Grad Beograd,Grad Beograd,RS|4|Grad Beograd,"Exact country, region ID and name",10
+RS,RS|6|Južno-Bački,6,Južno-Bački,Ju?no-Ba?ki,RS|6|Ju?no-Ba?ki,Unique country/ID; legacy '?' encoding,8
+RS,RS|7|Južno-Banatski,7,Južno-Banatski,Ju?no-Banatski,RS|7|Ju?no-Banatski,Unique country/ID; legacy '?' encoding,5
+RS,RS|9|Mačvanski,9,Mačvanski,Ma?vanski,RS|9|Ma?vanski,Unique country/ID; legacy '?' encoding,4
+RU,RU|11|Chelyabinsk,11,Chelyabinsk,Chelyabinsk,RU|11|Chelyabinsk,"Exact country, region ID and name",8
+RU,RU|13|Chuvash,13,Chuvash,Chuvash,RU|13|Chuvash,"Exact country, region ID and name",5
+RU,RU|14|City of St. Petersburg,14,City of St. Petersburg,City of St. Petersburg,RU|14|City of St. Petersburg,"Exact country, region ID and name",10
+RU,RU|18|Irkutsk,18,Irkutsk,Irkutsk,RU|18|Irkutsk,"Exact country, region ID and name",8
+RU,RU|19|Ivanovo,19,Ivanovo,Ivanovo,RU|19|Ivanovo,"Exact country, region ID and name",6
+RU,RU|21|Kaliningrad,21,Kaliningrad,Kaliningrad,RU|21|Kaliningrad,"Exact country, region ID and name",4
+RU,RU|23|Kaluga,23,Kaluga,Kaluga,RU|23|Kaluga,"Exact country, region ID and name",7
+RU,RU|26|Karelia,26,Karelia,Karelia,RU|26|Karelia,"Exact country, region ID and name",4
+RU,RU|27|Kemerovo,27,Kemerovo,Kemerovo,RU|27|Kemerovo,"Exact country, region ID and name",8
+RU,RU|28|Khabarovsk,28,Khabarovsk,Khabarovsk,RU|28|Khabarovsk,"Exact country, region ID and name",8
+RU,RU|2|Altay,2,Altay,Altay,RU|2|Altay,"Exact country, region ID and name",7
+RU,RU|30|Khanty-Mansiy,30,Khanty-Mansiy,Khanty-Mansiy,RU|30|Khanty-Mansiy,"Exact country, region ID and name",6
+RU,RU|31|Kirov,31,Kirov,Kirov,RU|31|Kirov,"Exact country, region ID and name",4
+RU,RU|32|Komi,32,Komi,Komi,RU|32|Komi,"Exact country, region ID and name",5
+RU,RU|34|Krasnodar,34,Krasnodar,Krasnodar,RU|34|Krasnodar,"Exact country, region ID and name",10
+RU,RU|35|Krasnoyarsk,35,Krasnoyarsk,Krasnoyarsk,RU|35|Krasnoyarsk,"Exact country, region ID and name",9
+RU,RU|37|Kursk,37,Kursk,Kursk,RU|37|Kursk,"Exact country, region ID and name",5
+RU,RU|38|Leningrad,38,Leningrad,Leningrad,RU|38|Leningrad,"Exact country, region ID and name",8
+RU,RU|39|Lipetsk,39,Lipetsk,Lipetsk,RU|39|Lipetsk,"Exact country, region ID and name",4
+RU,RU|43|Moscow City,43,Moscow City,Moscow City,RU|43|Moscow City,"Exact country, region ID and name",10
+RU,RU|44|Moskva,44,Moskva,Moskva,RU|44|Moskva,"Exact country, region ID and name",10
+RU,RU|45|Murmansk,45,Murmansk,Murmansk,RU|45|Murmansk,"Exact country, region ID and name",7
+RU,RU|47|Nizhegorod,47,Nizhegorod,Nizhegorod,RU|47|Nizhegorod,"Exact country, region ID and name",8
+RU,RU|4|Arkhangel'sk,4,Arkhangel'sk,Arkhangel'sk,RU|4|Arkhangel'sk,"Exact country, region ID and name",5
+RU,RU|50|Novosibirsk,50,Novosibirsk,Novosibirsk,RU|50|Novosibirsk,"Exact country, region ID and name",9
+RU,RU|51|Omsk,51,Omsk,Omsk,RU|51|Omsk,"Exact country, region ID and name",8
+RU,RU|53|Orenburg,53,Orenburg,Orenburg,RU|53|Orenburg,"Exact country, region ID and name",4
+RU,RU|54|Penza,54,Penza,Penza,RU|54|Penza,"Exact country, region ID and name",5
+RU,RU|55|Perm',55,Perm',Perm',RU|55|Perm',"Exact country, region ID and name",8
+RU,RU|56|Primor'ye,56,Primor'ye,Primor'ye,RU|56|Primor'ye,"Exact country, region ID and name",8
+RU,RU|58|Rostov,58,Rostov,Rostov,RU|58|Rostov,"Exact country, region ID and name",10
+RU,RU|59|Ryazan',59,Ryazan',Ryazan',RU|59|Ryazan',"Exact country, region ID and name",7
+RU,RU|61|Sakha,61,Sakha,Sakha,RU|61|Sakha,"Exact country, region ID and name",8
+RU,RU|62|Samara,62,Samara,Samara,RU|62|Samara,"Exact country, region ID and name",9
+RU,RU|63|Saratov,63,Saratov,Saratov,RU|63|Saratov,"Exact country, region ID and name",8
+RU,RU|64|Smolensk,64,Smolensk,Smolensk,RU|64|Smolensk,"Exact country, region ID and name",4
+RU,RU|65|Stavropol',65,Stavropol',Stavropol',RU|65|Stavropol',"Exact country, region ID and name",8
+RU,RU|66|Sverdlovsk,66,Sverdlovsk,Sverdlovsk,RU|66|Sverdlovsk,"Exact country, region ID and name",10
+RU,RU|67|Tambov,67,Tambov,Tambov,RU|67|Tambov,"Exact country, region ID and name",4
+RU,RU|68|Tatarstan,68,Tatarstan,Tatarstan,RU|68|Tatarstan,"Exact country, region ID and name",9
+RU,RU|69|Tomsk,69,Tomsk,Tomsk,RU|69|Tomsk,"Exact country, region ID and name",8
+RU,RU|6|Bashkortostan,6,Bashkortostan,Bashkortostan,RU|6|Bashkortostan,"Exact country, region ID and name",8
+RU,RU|70|Tula,70,Tula,Tula,RU|70|Tula,"Exact country, region ID and name",7
+RU,RU|72|Tver',72,Tver',Tver',RU|72|Tver',"Exact country, region ID and name",6
+RU,RU|73|Tyumen',73,Tyumen',Tyumen',RU|73|Tyumen',"Exact country, region ID and name",8
+RU,RU|74|Udmurt,74,Udmurt,Udmurt,RU|74|Udmurt,"Exact country, region ID and name",5
+RU,RU|75|Ul'yanovsk,75,Ul'yanovsk,Ul'yanovsk,RU|75|Ul'yanovsk,"Exact country, region ID and name",7
+RU,RU|76|Vladimir,76,Vladimir,Vladimir,RU|76|Vladimir,"Exact country, region ID and name",7
+RU,RU|77|Volgograd,77,Volgograd,Volgograd,RU|77|Volgograd,"Exact country, region ID and name",8
+RU,RU|78|Vologda,78,Vologda,Vologda,RU|78|Vologda,"Exact country, region ID and name",5
+RU,RU|79|Voronezh,79,Voronezh,Voronezh,RU|79|Voronezh,"Exact country, region ID and name",8
+RU,RU|7|Belgorod,7,Belgorod,Belgorod,RU|7|Belgorod,"Exact country, region ID and name",6
+RU,RU|81|Yaroslavl',81,Yaroslavl',Yaroslavl',RU|81|Yaroslavl',"Exact country, region ID and name",7
+SE,SE|10|Kronoberg,10,Kronoberg,Kronoberg,SE|10|Kronoberg,"Exact country, region ID and name",8
+SE,SE|11|Norrbotten,11,Norrbotten,Norrbotten,SE|11|Norrbotten,"Exact country, region ID and name",8
+SE,SE|12|Orebro,12,Orebro,Orebro,SE|12|Orebro,"Exact country, region ID and name",8
+SE,SE|13|Södermanland,13,Södermanland,Södermanland,SE|13|Södermanland,"Exact country, region ID and name",8
+SE,SE|14|Skåne,14,Skåne,Skåne,SE|14|Skåne,"Exact country, region ID and name",10
+SE,SE|15|Stockholm,15,Stockholm,Stockholm,SE|15|Stockholm,"Exact country, region ID and name",10
+SE,SE|16|Uppsala,16,Uppsala,Uppsala,SE|16|Uppsala,"Exact country, region ID and name",8
+SE,SE|17|Värmland,17,Värmland,Värmland,SE|17|Värmland,"Exact country, region ID and name",8
+SE,SE|18|Västerbotten,18,Västerbotten,Västerbotten,SE|18|Västerbotten,"Exact country, region ID and name",8
+SE,SE|19|Västernorrland,19,Västernorrland,Västernorrland,SE|19|Västernorrland,"Exact country, region ID and name",9
+SE,SE|1|Östergötland,1,Östergötland,Östergötland,SE|1|Östergötland,"Exact country, region ID and name",8
+SE,SE|20|Västmanland,20,Västmanland,Västmanland,SE|20|Västmanland,"Exact country, region ID and name",8
+SE,SE|21|Västra Götaland,21,Västra Götaland,Västra Götaland,SE|21|Västra Götaland,"Exact country, region ID and name",10
+SE,SE|2|Blekinge,2,Blekinge,Blekinge,SE|2|Blekinge,"Exact country, region ID and name",7
+SE,SE|3|Dalarna,3,Dalarna,Dalarna,SE|3|Dalarna,"Exact country, region ID and name",8
+SE,SE|4|Gävleborg,4,Gävleborg,Gävleborg,SE|4|Gävleborg,"Exact country, region ID and name",8
+SE,SE|5|Gotland,5,Gotland,Gotland,SE|5|Gotland,"Exact country, region ID and name",7
+SE,SE|6|Halland,6,Halland,Halland,SE|6|Halland,"Exact country, region ID and name",8
+SE,SE|7|Jämtland,7,Jämtland,Jämtland,SE|7|Jämtland,"Exact country, region ID and name",7
+SE,SE|8|Jönköping,8,Jönköping,Jönköping,SE|8|Jönköping,"Exact country, region ID and name",8
+SE,SE|9|Kalmar,9,Kalmar,Kalmar,SE|9|Kalmar,"Exact country, region ID and name",7
+SI,SI|12|Zasavska,12,Zasavska,Zasavska,SI|12|Zasavska,"Exact country, region ID and name",5
+SK,SK|2|Banskobystrický,2,Banskobystrický,Banskobystrický,SK|2|Banskobystrický,"Exact country, region ID and name",5
+SN,SN|12|Tambacounda,12,Tambacounda,Tambacounda,SN|12|Tambacounda,"Exact country, region ID and name",5
+SN,SN|1|Dakar,1,Dakar,Dakar,SN|1|Dakar,"Exact country, region ID and name",9
+SO,SO|3|Banaadir,3,Banaadir,Banaadir,SO|3|Banaadir,"Exact country, region ID and name",4
+SO,SO|6|Galguduud,6,Galguduud,Galguduud,SO|6|Galguduud,"Exact country, region ID and name",5
+TR,TR|10|Ankara,10,Ankara,Ankara,TR|10|Ankara,"Exact country, region ID and name",10
+TR,TR|11|Antalya,11,Antalya,Antalya,TR|11|Antalya,"Exact country, region ID and name",10
+TR,TR|12|Ardahan,12,Ardahan,Ardahan,TR|12|Ardahan,"Exact country, region ID and name",6
+TR,TR|13|Artvin,13,Artvin,Artvin,TR|13|Artvin,"Exact country, region ID and name",8
+TR,TR|14|Aydin,14,Aydin,Aydin,TR|14|Aydin,"Exact country, region ID and name",10
+TR,TR|15|Balikesir,15,Balikesir,Balikesir,TR|15|Balikesir,"Exact country, region ID and name",10
+TR,TR|16|Bartın,16,Bartın,Bart?n,TR|16|Bart?n,Unique country/ID; legacy '?' encoding,8
+TR,TR|17|Batman,17,Batman,Batman,TR|17|Batman,"Exact country, region ID and name",10
+TR,TR|18|Bayburt,18,Bayburt,Bayburt,TR|18|Bayburt,"Exact country, region ID and name",8
+TR,TR|19|Bilecik,19,Bilecik,Bilecik,TR|19|Bilecik,"Exact country, region ID and name",8
+TR,TR|1|Çanakkale,1,Çanakkale,Çanakkale,TR|1|Çanakkale,"Exact country, region ID and name",10
+TR,TR|20|Bingöl,20,Bingöl,Bingöl,TR|20|Bingöl,"Exact country, region ID and name",8
+TR,TR|21|Bitlis,21,Bitlis,Bitlis,TR|21|Bitlis,"Exact country, region ID and name",8
+TR,TR|22|Bolu,22,Bolu,Bolu,TR|22|Bolu,"Exact country, region ID and name",10
+TR,TR|23|Burdur,23,Burdur,Burdur,TR|23|Burdur,"Exact country, region ID and name",9
+TR,TR|24|Bursa,24,Bursa,Bursa,TR|24|Bursa,"Exact country, region ID and name",10
+TR,TR|25|Düzce,25,Düzce,Düzce,TR|25|Düzce,"Exact country, region ID and name",9
+TR,TR|26|Denizli,26,Denizli,Denizli,TR|26|Denizli,"Exact country, region ID and name",10
+TR,TR|27|Diyarbakir,27,Diyarbakir,Diyarbakir,TR|27|Diyarbakir,"Exact country, region ID and name",10
+TR,TR|28|Edirne,28,Edirne,Edirne,TR|28|Edirne,"Exact country, region ID and name",10
+TR,TR|29|Elazığ,29,Elazığ,Elaz??,TR|29|Elaz??,Unique country/ID; legacy '?' encoding,9
+TR,TR|2|Çankiri,2,Çankiri,Çankiri,TR|2|Çankiri,"Exact country, region ID and name",8
+TR,TR|30|Erzincan,30,Erzincan,Erzincan,TR|30|Erzincan,"Exact country, region ID and name",8
+TR,TR|31|Erzurum,31,Erzurum,Erzurum,TR|31|Erzurum,"Exact country, region ID and name",10
+TR,TR|32|Eskisehir,32,Eskisehir,Eskisehir,TR|32|Eskisehir,"Exact country, region ID and name",10
+TR,TR|33|Gümüshane,33,Gümüshane,Gümüshane,TR|33|Gümüshane,"Exact country, region ID and name",8
+TR,TR|34|Gaziantep,34,Gaziantep,Gaziantep,TR|34|Gaziantep,"Exact country, region ID and name",10
+TR,TR|35|Giresun,35,Giresun,Giresun,TR|35|Giresun,"Exact country, region ID and name",10
+TR,TR|36|Hakkari,36,Hakkari,Hakkari,TR|36|Hakkari,"Exact country, region ID and name",8
+TR,TR|37|Hatay,37,Hatay,Hatay,TR|37|Hatay,"Exact country, region ID and name",10
+TR,TR|38|Iğdır,38,Iğdır,I?d?r,TR|38|I?d?r,Unique country/ID; legacy '?' encoding,8
+TR,TR|39|Isparta,39,Isparta,Isparta,TR|39|Isparta,"Exact country, region ID and name",10
+TR,TR|3|Çorum,3,Çorum,Çorum,TR|3|Çorum,"Exact country, region ID and name",9
+TR,TR|40|Istanbul,40,Istanbul,Istanbul,TR|40|Istanbul,"Exact country, region ID and name",10
+TR,TR|41|Izmir,41,Izmir,Izmir,TR|41|Izmir,"Exact country, region ID and name",10
+TR,TR|42|K. Maras,42,K. Maras,K. Maras,TR|42|K. Maras,"Exact country, region ID and name",9
+TR,TR|43|Kütahya,43,Kütahya,Kütahya,TR|43|Kütahya,"Exact country, region ID and name",10
+TR,TR|44|Karabük,44,Karabük,Karabük,TR|44|Karabük,"Exact country, region ID and name",10
+TR,TR|45|Karaman,45,Karaman,Karaman,TR|45|Karaman,"Exact country, region ID and name",8
+TR,TR|46|Kars,46,Kars,Kars,TR|46|Kars,"Exact country, region ID and name",8
+TR,TR|47|Kastamonu,47,Kastamonu,Kastamonu,TR|47|Kastamonu,"Exact country, region ID and name",9
+TR,TR|48|Kayseri,48,Kayseri,Kayseri,TR|48|Kayseri,"Exact country, region ID and name",10
+TR,TR|49|Kilis,49,Kilis,Kilis,TR|49|Kilis,"Exact country, region ID and name",8
+TR,TR|4|Adana,4,Adana,Adana,TR|4|Adana,"Exact country, region ID and name",10
+TR,TR|50|Kinkkale,50,Kinkkale,Kinkkale,TR|50|Kinkkale,"Exact country, region ID and name",8
+TR,TR|51|Kirklareli,51,Kirklareli,Kirklareli,TR|51|Kirklareli,"Exact country, region ID and name",9
+TR,TR|52|Kirsehir,52,Kirsehir,Kirsehir,TR|52|Kirsehir,"Exact country, region ID and name",8
+TR,TR|53|Kocaeli,53,Kocaeli,Kocaeli,TR|53|Kocaeli,"Exact country, region ID and name",10
+TR,TR|54|Konya,54,Konya,Konya,TR|54|Konya,"Exact country, region ID and name",10
+TR,TR|55|Malatya,55,Malatya,Malatya,TR|55|Malatya,"Exact country, region ID and name",10
+TR,TR|56|Manisa,56,Manisa,Manisa,TR|56|Manisa,"Exact country, region ID and name",10
+TR,TR|57|Mardin,57,Mardin,Mardin,TR|57|Mardin,"Exact country, region ID and name",8
+TR,TR|58|Mersin,58,Mersin,Mersin,TR|58|Mersin,"Exact country, region ID and name",10
+TR,TR|59|Mugla,59,Mugla,Mugla,TR|59|Mugla,"Exact country, region ID and name",10
+TR,TR|5|Adiyaman,5,Adiyaman,Adiyaman,TR|5|Adiyaman,"Exact country, region ID and name",9
+TR,TR|60|Mus,60,Mus,Mus,TR|60|Mus,"Exact country, region ID and name",8
+TR,TR|61|Nevsehir,61,Nevsehir,Nevsehir,TR|61|Nevsehir,"Exact country, region ID and name",10
+TR,TR|62|Nigde,62,Nigde,Nigde,TR|62|Nigde,"Exact country, region ID and name",8
+TR,TR|63|Ordu,63,Ordu,Ordu,TR|63|Ordu,"Exact country, region ID and name",10
+TR,TR|64|Osmaniye,64,Osmaniye,Osmaniye,TR|64|Osmaniye,"Exact country, region ID and name",9
+TR,TR|65|Rize,65,Rize,Rize,TR|65|Rize,"Exact country, region ID and name",10
+TR,TR|66|Sakarya,66,Sakarya,Sakarya,TR|66|Sakarya,"Exact country, region ID and name",10
+TR,TR|67|Samsun,67,Samsun,Samsun,TR|67|Samsun,"Exact country, region ID and name",10
+TR,TR|68|Sanliurfa,68,Sanliurfa,Sanliurfa,TR|68|Sanliurfa,"Exact country, region ID and name",10
+TR,TR|69|Siirt,69,Siirt,Siirt,TR|69|Siirt,"Exact country, region ID and name",8
+TR,TR|6|Afyon,6,Afyon,Afyon,TR|6|Afyon,"Exact country, region ID and name",9
+TR,TR|70|Sinop,70,Sinop,Sinop,TR|70|Sinop,"Exact country, region ID and name",8
+TR,TR|71|Sirnak,71,Sirnak,Sirnak,TR|71|Sirnak,"Exact country, region ID and name",8
+TR,TR|72|Sivas,72,Sivas,Sivas,TR|72|Sivas,"Exact country, region ID and name",10
+TR,TR|73|Tekirdag,73,Tekirdag,Tekirdag,TR|73|Tekirdag,"Exact country, region ID and name",10
+TR,TR|74|Tokat,74,Tokat,Tokat,TR|74|Tokat,"Exact country, region ID and name",9
+TR,TR|75|Trabzon,75,Trabzon,Trabzon,TR|75|Trabzon,"Exact country, region ID and name",10
+TR,TR|76|Tunceli,76,Tunceli,Tunceli,TR|76|Tunceli,"Exact country, region ID and name",6
+TR,TR|77|Usak,77,Usak,Usak,TR|77|Usak,"Exact country, region ID and name",9
+TR,TR|78|Van,78,Van,Van,TR|78|Van,"Exact country, region ID and name",9
+TR,TR|79|Yalova,79,Yalova,Yalova,TR|79|Yalova,"Exact country, region ID and name",10
+TR,TR|7|Agri,7,Agri,Agri,TR|7|Agri,"Exact country, region ID and name",8
+TR,TR|80|Yozgat,80,Yozgat,Yozgat,TR|80|Yozgat,"Exact country, region ID and name",8
+TR,TR|81|Zinguldak,81,Zinguldak,Zinguldak,TR|81|Zinguldak,"Exact country, region ID and name",10
+TR,TR|8|Aksaray,8,Aksaray,Aksaray,TR|8|Aksaray,"Exact country, region ID and name",9
+TR,TR|9|Amasya,9,Amasya,Amasya,TR|9|Amasya,"Exact country, region ID and name",9
+TZ,TZ|12|Mara,12,Mara,Mara,TZ|12|Mara,"Exact country, region ID and name",6
+TZ,TZ|13|Mbeya,13,Mbeya,Mbeya,TZ|13|Mbeya,"Exact country, region ID and name",8
+TZ,TZ|14|Morogoro,14,Morogoro,Morogoro,TZ|14|Morogoro,"Exact country, region ID and name",7
+TZ,TZ|15|Mtwara,15,Mtwara,Mtwara,TZ|15|Mtwara,"Exact country, region ID and name",4
+TZ,TZ|16|Mwanza,16,Mwanza,Mwanza,TZ|16|Mwanza,"Exact country, region ID and name",8
+TZ,TZ|1|Arusha,1,Arusha,Arusha,TZ|1|Arusha,"Exact country, region ID and name",10
+TZ,TZ|20|Pwani,20,Pwani,Pwani,TZ|20|Pwani,"Exact country, region ID and name",6
+TZ,TZ|23|Shinyanga,23,Shinyanga,Shinyanga,TZ|23|Shinyanga,"Exact country, region ID and name",6
+TZ,TZ|25|Singida,25,Singida,Singida,TZ|25|Singida,"Exact country, region ID and name",5
+TZ,TZ|26|Tabora,26,Tabora,Tabora,TZ|26|Tabora,"Exact country, region ID and name",4
+TZ,TZ|27|Tanga,27,Tanga,Tanga,TZ|27|Tanga,"Exact country, region ID and name",5
+TZ,TZ|2|Dar es Salaam,2,Dar es Salaam,Dar es Salaam,TZ|2|Dar es Salaam,"Exact country, region ID and name",10
+TZ,TZ|30|Zanzibar West,30,Zanzibar West,Zanzibar West,TZ|30|Zanzibar West,"Exact country, region ID and name",5
+TZ,TZ|3|Dodoma,3,Dodoma,Dodoma,TZ|3|Dodoma,"Exact country, region ID and name",8
+TZ,TZ|6|Kagera,6,Kagera,Kagera,TZ|6|Kagera,"Exact country, region ID and name",4
+TZ,TZ|7|Katavi,7,Katavi,Katavi,TZ|7|Katavi,"Exact country, region ID and name",5
+TZ,TZ|8|Kigoma,8,Kigoma,Kigoma,TZ|8|Kigoma,"Exact country, region ID and name",4
+TZ,TZ|9|Kilimanjaro,9,Kilimanjaro,Kilimanjaro,TZ|9|Kilimanjaro,"Exact country, region ID and name",8
+UA,UA|11|Kiev City,11,Kiev City,Kiev City,UA|11|Kiev City,"Exact country, region ID and name",10
+UA,UA|13|Kirovohrad,13,Kirovohrad,Kirovohrad,UA|13|Kirovohrad,"Exact country, region ID and name",7
+UA,UA|14|L'viv,14,L'viv,L'viv,UA|14|L'viv,"Exact country, region ID and name",6
+UA,UA|17|Odessa,17,Odessa,Odessa,UA|17|Odessa,"Exact country, region ID and name",7
+UA,UA|1|Cherkasy,1,Cherkasy,Cherkasy,UA|1|Cherkasy,"Exact country, region ID and name",4
+UA,UA|5|Dnipropetrovs'k,5,Dnipropetrovs'k,Dnipropetrovs'k,UA|5|Dnipropetrovs'k,"Exact country, region ID and name",5
+UA,UA|6|Donets'k,6,Donets'k,Donets'k,UA|6|Donets'k,"Exact country, region ID and name",6
+ZA,ZA|1|Eastern Cape,1,Eastern Cape,Eastern Cape,ZA|1|Eastern Cape,"Exact country, region ID and name",10
+ZA,ZA|2|Free State,2,Free State,Free State,ZA|2|Free State,"Exact country, region ID and name",10
+ZA,ZA|3|Gauteng,3,Gauteng,Gauteng,ZA|3|Gauteng,"Exact country, region ID and name",10
+ZA,ZA|4|KwaZulu-Natal,4,KwaZulu-Natal,KwaZulu-Natal,ZA|4|KwaZulu-Natal,"Exact country, region ID and name",10
+ZA,ZA|5|Limpopo,5,Limpopo,Limpopo,ZA|5|Limpopo,"Exact country, region ID and name",10
+ZA,ZA|6|Mpumalanga,6,Mpumalanga,Mpumalanga,ZA|6|Mpumalanga,"Exact country, region ID and name",10
+ZA,ZA|7|North West,7,North West,North West,ZA|7|North West,"Exact country, region ID and name",10
+ZA,ZA|8|Northern Cape,8,Northern Cape,Northern Cape,ZA|8|Northern Cape,"Exact country, region ID and name",10
+ZA,ZA|9|Western Cape,9,Western Cape,Western Cape,ZA|9|Western Cape,"Exact country, region ID and name",10

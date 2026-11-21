@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-21",
+  "analysis_block": "annual_association",
+  "period": [
+    2013,
+    2022
+  ],
+  "inputs": [
+    {
+      "file": "model_data.csv",
+      "bytes": 4228665,
+      "sha256": "b31f7e2896e53d0aff3b55d4fd15a675b1c0e0085909f9cd1c8211e3a4c362fb"
+    },
+    {
+      "file": "adm0.shp",
+      "bytes": 515172208,
+      "sha256": "38b2cd5b6878542ae7485b5d5886695112ed870b6c2ac3f401c09cc824ccd5a1"
+    },
+    {
+      "file": "adm0.shx",
+      "bytes": 2140,
+      "sha256": "79c52b1914c36999e49cedfa9f3a874c3018acf49adba1e7b77e01bd60ed27e4"
+    },
+    {
+      "file": "adm0.dbf",
+      "bytes": 861369,
+      "sha256": "8e2b8990c154455e78432d63bb843e9107996a388a2d0257ea0f52236d5a3d2c"
+    },
+    {
+      "file": "adm0.prj",
+      "bytes": 145,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "file": "adm1_simplify.shp",
+      "bytes": 33708440,
+      "sha256": "8a678030ddacd52a890ef2460e14b29439a0e7503eee2a50376114a2185642c4"
+    },
+    {
+      "file": "adm1_simplify.shx",
+      "bytes": 28932,
+      "sha256": "df242ff57e82cc37ef18a4d5730000d1cb6dd58a6aa21f1b5aa6d3e62b17e797"
+    },
+    {
+      "file": "adm1_simplify.dbf",
+      "bytes": 3287362,
+      "sha256": "1d1c63e1ae3ae6ea84f0877b92202a91bf82656648082414e6609f3bee741921"
+    },
+    {
+      "file": "adm1_simplify.prj",
+      "bytes": 145,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    }
+  ]
+}

@@ -22,8 +22,9 @@ The hypothesis summary is an interpretation, not another fitted model. “No” 
 
 | Paper item | Contents | Reproduction |
 |---|---|---|
-| Figure 1 (`fig:dag`) | Proposed connectedness pathway | `templates/dag.tex` copied to `results/paper_outputs/` |
-| Figure 2 (`fig:estimation-strategy`) | Estimation sequence | `templates/estimation-strategy.tex` copied to `results/paper_outputs/` |
+| Figure 1 (`fig:coverage`) | National and regional coverage, coloured by eligible years | `coverage_maps.R` → `results/coverage_maps/geographic_coverage.png`; requires external boundary layers (see `docs/COVERAGE_MAPS.md`) |
+| Figure 2 (`fig:dag`) | Proposed connectedness pathway | `templates/dag.tex` copied to `results/paper_outputs/` |
+| Figure 3 (`fig:estimation-strategy`) | Estimation sequence | `templates/estimation-strategy.tex` copied to `results/paper_outputs/` |
 | Figure S1 | National association and SEM coefficient panels | `report_figures.R` → `results/report_figures/model1_country.png`, `model2_sem_country.png` |
 | Figure S2 | National estimated paths | `export_paper_outputs.py` → `results/paper_outputs/country-paths.tex` |
 | Figure S3 | Regional association and SEM coefficient panels | `report_figures.R` → `results/report_figures/model1_region.png`, `model2_sem_region.png` |
