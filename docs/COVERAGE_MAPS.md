@@ -4,8 +4,8 @@ The two panels map the **annual association** block of the public replication
 dataset, restricted to 2013–2022. They show eligible years per geographic unit,
 not religious-expression or well-being scores.
 
-- National: 60 countries, 592 country-years (8–10 years per country).
-- Regional: 953 regions in 59 countries, 7,840 region-years (4–10 years per region).
+- National: 61 countries, 602 country-years (8–10 years per country).
+- Regional: 1,004 regions in 60 countries, 8,350 region-years (4–10 years per region).
 
 The longitudinal and regional period-average models use different inclusion
 criteria. Their samples are not represented by these maps.
@@ -41,7 +41,7 @@ is recorded in `regional_boundary_crosswalk.csv`.
 
 Some administrative units have multiple geometry records. All parts receive
 the same coverage value; they are not counted as separate statistical units.
-Assertions require all 60 national and all 953 regional units to be mapped.
+Assertions require all 61 national and all 1,004 regional units to be mapped.
 
 Maps use the Robinson projection and the same discrete 4–10-year colour scale.
 Grey denotes exclusion from the corresponding analysis sample, not zero
@@ -63,4 +63,4 @@ if simplification would make a feature empty. Statistical inputs are unchanged.
 The PNG is included in the manuscript's data section. Figure numbering is
 managed by LaTeX through `fig:coverage`.
 
-The model-input CSV is unchanged from the original replication release.
+The model-input CSV includes the USA as one country and the 50 states plus District of Columbia as regional units. All 51 US regional units contribute ten eligible years to this map.

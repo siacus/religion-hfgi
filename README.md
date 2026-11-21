@@ -35,14 +35,14 @@ The CSV contains four **analysis blocks**, identified by `analysis`. Each block 
 
 | Analysis block | Geography | Rows in CSV | Final model sample |
 |---|---|---:|---|
-| `annual_association` | Country | 592 | 592 country-years, 60 countries |
-| `annual_association` | NUTS1 | 7,840 | 7,840 region-years, 953 regions, 59 countries |
-| `longitudinal_pathway` | Country | 592 | 460 eligible baseline years, 60 countries |
-| `longitudinal_pathway` | NUTS1 | 7,840 | 4,714 eligible baseline years, 796 regions, 59 countries |
-| `regional_averages` | NUTS1 | 682 | 682 regions, 42 countries |
-| `latent_diagnostic` | NUTS1 | 4,714 | 4,714 baseline region-years, 796 regions, 59 countries |
+| `annual_association` | Country | 602 | 602 country-years, 61 countries |
+| `annual_association` | NUTS1 | 8,350 | 8,350 region-years, 1,004 regions, 60 countries |
+| `longitudinal_pathway` | Country | 602 | 468 eligible baseline years, 61 countries |
+| `longitudinal_pathway` | NUTS1 | 8,350 | 5,122 eligible baseline years, 847 regions, 60 countries |
+| `regional_averages` | NUTS1 | 733 | 733 regions, 43 countries |
+| `latent_diagnostic` | NUTS1 | 5,122 | 5,122 baseline region-years, 847 regions, 60 countries |
 
-`NUTS1` is the historical label in the analysis files for **first-level administrative regions worldwide**; it does not imply that every unit belongs to the European NUTS system. The longitudinal blocks contain annual observations before matching `t`, `t+1`, and `t+2`. The period-average block represents 2013–2022, so its `year` field is intentionally missing.
+`NUTS1` is the historical label in the analysis files for **first-level administrative regions worldwide**; it does not imply that every unit belongs to the European NUTS system. The USA is one national unit; its 50 states and District of Columbia are regional units. The longitudinal blocks contain annual observations before matching `t`, `t+1`, and `t+2`. The period-average block represents 2013–2022, so its `year` field is intentionally missing.
 
 See **[From model variables to estimates](docs/VARIABLES_AND_METHODS.md)** for the full data dictionary, the construction of the released indicators, all standardization conventions, weights, lag construction, and model specifications.
 

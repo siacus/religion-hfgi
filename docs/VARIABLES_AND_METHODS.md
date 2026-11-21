@@ -2,7 +2,7 @@
 
 ## 1. Scope and unit of observation
 
-`data/model_data.csv` contains **22,260 rows** distributed across six analysis/geography blocks. A row is either a country-year, a region-year, or a regional average over 2013–2022. The same place-year can occur in both an annual-association block and a longitudinal block because their indicator scaling differs. These are alternate model inputs, not additional independent observations.
+`data/model_data.csv` contains **23,759 rows** distributed across six analysis/geography blocks. A row is either a country-year, a region-year, or a regional average over 2013–2022. The same place-year can occur in both an annual-association block and a longitudinal block because their indicator scaling differs. These are alternate model inputs, not additional independent observations.
 
 The release starts **after geographic cleaning, quality filtering, and construction of the composite indicators**. Upstream post-level data are not included. Component indicators are restricted to the model inputs required for the supplementary latent diagnostic; the full component series are not released. The construction rules are documented below to explain the supplied values; the executable scripts take those final model variables as inputs. This boundary preserves the separate planned release of the full dataset.
 
@@ -38,7 +38,7 @@ Annual association and initial longitudinal panels require at least four eligibl
 
 ### Religious expression and connectedness
 
-Religious expression combines belief in an afterlife, belief in God, feeling loved by God, and comfort derived from religion, with equal item weights. Connectedness combines societal belonging, loneliness reversed in direction, trust in others, and feeling trusted, also with equal item weights. The reversal ensures that greater connectedness always has the same direction. These composites describe the valence of expressed experiences, not religious affiliation shares or representative population averages.
+Religious expression combines belief in an afterlife, belief in God, feeling loved by God, and comfort derived from religion, with equal item weights. Connectedness combines societal belonging, loneliness reversed in direction, trust in others, and feeling trusted, also with equal item weights. The reversal ensures that greater connectedness always has the same direction. Before standardization, each underlying dimension score is the sum of expression scores divided by all posts in its geographic unit and year. It therefore combines the share of posts expressing that dimension with the mean score among those posts. Posts without the dimension contribute zero to the numerator and remain in the denominator. The composites summarize these combined measures; they are not religious affiliation shares or representative population averages.
 
 The outcome indicators are happiness, life satisfaction, and purpose in life. They are retained separately throughout; no overall well-being composite is estimated.
 
@@ -72,11 +72,11 @@ The static variables cannot in general be obtained by simply averaging the suppl
 
 The outcome is regressed on religious expression with place and year fixed effects and country-specific linear time trends. National models use country effects; regional models use region effects. Standard errors are clustered by country, with the `fixest` default finite-sample adjustment and confidence-interval convention. Country-by-year sensitivity replaces the common year effects and national trends with country-by-year effects, holding the sample and scaling fixed.
 
-The informative-country sensitivity retains the original scaling and excludes countries with no residual religious-expression variation under country-by-year effects. Its sample contains 7,797 region-years, 946 regions and 53 countries. It is reported as a sensitivity in the Supplementary material.
+The informative-country sensitivity retains the original scaling and excludes countries with no residual religious-expression variation under country-by-year effects. Its sample contains 8,307 region-years, 997 regions and 54 countries. It is reported as a sensitivity in the Supplementary material.
 
 ### Longitudinal connectedness pathways: H2 and H2-Reg
 
-For each unit, the scripts match religious expression at t to connectedness at t+1 and each outcome at t+2, using calendar-year joins. A gap cannot be treated as a consecutive observation. Every unit must contribute at least three eligible baseline years. Baseline connectedness and all three baseline outcomes enter both the connectedness and outcome equations. This yields 460 country baseline-years and 4,714 region baseline-years.
+For each unit, the scripts match religious expression at t to connectedness at t+1 and each outcome at t+2, using calendar-year joins. A gap cannot be treated as a consecutive observation. Every unit must contribute at least three eligible baseline years. Baseline connectedness and all three baseline outcomes enter both the connectedness and outcome equations. This yields 468 country baseline-years and 5,122 region baseline-years.
 
 Before fitting, each modeled variable is regressed on place and year effects and country-specific linear trends using equal-country estimation weights. The residuals enter the SEM without additional standardization. The SEM uses robust maximum likelihood with country-clustered uncertainty, an explicit mean structure, and zero intercepts for the connectedness equation and the three outcome equations. The three outcome residuals may covary.
 
@@ -92,7 +92,7 @@ For each design, regress `purpose - happiness` and `purpose - life_satisfaction`
 
 ### Attempted latent multilevel SEM: Supplementary material
 
-The `latent_diagnostic` block contains the 4,714 eligible baseline region-years. Its four religious-expression components refer to t, the four social components to t+1, and the three outcome columns to t+2. Before release, each component was standardized on the complete annual pathway panel using the same equal-country weights as the longitudinal model; loneliness was reversed before standardization. The columns are not yet residualized.
+The `latent_diagnostic` block contains the 5,122 eligible baseline region-years. Its four religious-expression components refer to t, the four social components to t+1, and the three outcome columns to t+2. Before release, each component was standardized on the complete annual pathway panel using the same equal-country weights as the longitudinal model; loneliness was reversed before standardization. The columns are not yet residualized.
 
 `latent_multilevel_sem.R` removes country and year effects and country-specific linear trends from each supplied measurement, using country-balanced weights computed on this lagged sample. Unlike the observed regional SEM, this diagnostic removes country effects, not region effects. It then fits the within-region and between-region latent measurement and structural equations, clustering by region. Baseline outcome and connectedness controls are omitted, as in the paper's diagnostic specification.
 

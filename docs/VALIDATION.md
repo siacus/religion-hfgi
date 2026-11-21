@@ -1,33 +1,32 @@
 # Replication validation
 
-The full workflow was run successfully on 18 November 2026 using the single
-released `data/model_data.csv`, without access to the upstream HFGI files.
+The complete workflow was rerun on 21 November 2026 from the single released
+`data/model_data.csv`, including the USA. It uses no upstream HFGI archive.
 All reported models, including both supplementary latent specifications, were
-re-estimated. The six coefficient figures and the formatted outputs were generated.
+re-estimated, and all six coefficient figures and formatted outputs regenerated.
 
 - All 91 checked numeric fields match the manuscript reference outputs.
-- Maximum scaled discrepancy: 2.41e-08; tolerance: 1e-6.
-- Observation and cluster counts are checked for exact agreement.
-- The 66 estimate/interval triples in the seven numerical main tables were
-  independently compared with the current LaTeX source at displayed precision.
-- The three observed-variable SEMs converged to admissible solutions with
+- Maximum scaled discrepancy: 2.71e-08; tolerance: 1e-6.
+- Observation and cluster counts agree exactly.
+- All 66 estimate/interval triples in the seven numeric main tables match the
+  updated LaTeX source at displayed precision.
+- All 27 coefficient labels in the three estimated path diagrams agree.
+- All three observed-variable SEMs converge to admissible solutions with
   positive-definite robust parameter covariance matrices.
-- The latent diagnostic reproduces its negative-variance and boundary findings;
-  it is not treated as an interpretable substantive model.
+- The latent diagnostic retains three negative variances in the unconstrained
+  fit and three boundary variances in the bounded fit; its paths are not interpreted.
 
-See `reference/replication_verification.csv` for the recorded checks and
-`reference/replication_sessionInfo.txt` for the environment. Every new run creates
-fresh files under `results/`; reference outputs are never used as fitted values.
+See `reference/replication_verification.csv` and
+`reference/replication_sessionInfo.txt`. Fresh outputs are written under
+`results/`; the reference values are verification targets, never fitted inputs.
 
-No manuscript PDF was compiled or inspected. Figure verification concerns the
-underlying estimates and successful generation, not pixel-identical rendering.
+## Geographic coverage
 
-## Geographic coverage figure, 21 November 2026
+All 61 countries and 1,004 regional units match the boundary layers. Coverage
+is 602 country-years and 8,350 region-years. All 50 US states and District of
+Columbia contribute ten eligible years. The 21 historical boundary-name
+reconciliations remain documented in the crosswalk. The 450-dpi PNG was
+visually inspected for coverage, labels, colour scale and layout. Tiny
+administrative units may be difficult to distinguish at the global map scale.
 
-The map script was run against the released CSV and the project's boundary
-layers. All 60 national and 953 regional units were matched. Coverage totals
-(592 country-years and 7,840 region-years) also agree country by country with
-the manuscript's independently documented coverage. The 21 boundary-name
-reconciliations are recorded explicitly in the published crosswalk. The final
-450-dpi PNG was visually inspected for map coverage, labels, colour scale and
-layout. No statistical model was changed or rerun for this addition.
+No manuscript compilation or PDF inspection was performed.

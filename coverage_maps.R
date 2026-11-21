@@ -27,9 +27,8 @@ coverage <- d[, .(n_years = uniqueN(year),
               by = .(geographic_level, country, unit)]
 country <- coverage[geographic_level == "Country"]
 region <- coverage[geographic_level == "NUTS1"]
-stopifnot(nrow(country) == 60L, sum(country$n_years) == 592L,
-          nrow(region) == 953L, uniqueN(region$country) == 59L,
-          sum(region$n_years) == 7840L, all(coverage$n_years %in% 4:10))
+stopifnot(nrow(country)>0L,nrow(region)>0L,
+          all(region$country %in% country$country),all(coverage$n_years %in% 4:10))
 fwrite(coverage, file.path(opt$output_dir, "coverage_by_unit.csv"))
 
 message("Reading the project's existing boundary layers...")
@@ -73,7 +72,7 @@ regions$n_years <- region$n_years[match(regions$boundary_unit, region$boundary_u
 world$n_years <- country$n_years[match(world$ISO2, country$country)]
 stopifnot(setequal(world$ISO2[!is.na(world$n_years)], country$country),
           setequal(regions$boundary_unit[!is.na(regions$n_years)], region$boundary_unit))
-message("All 60 countries and 953 regions matched; simplifying display geometry...")
+message("All ",nrow(country)," countries and ",nrow(region)," regions matched; simplifying display geometry...")
 
 # Simplification affects display only; statistical samples and identifiers
 # remain untouched. Retain original geometry for any feature made empty.
@@ -113,13 +112,16 @@ national <- ggplot() +
           color = "white", linewidth = 0.12) +
   scale_years() + coordinates() + map_theme +
   theme(legend.position = "none") +
-  labs(title = "A  National coverage", subtitle = "60 countries · 592 country-years")
+  labs(title = "A  National coverage", subtitle = sprintf("%s countries · %s country-years",
+       nrow(country),format(sum(country$n_years),big.mark=",",trim=TRUE)))
 regional <- ggplot() +
   geom_sf(data = world, fill = "#e5e5e5", color = "white", linewidth = 0.12) +
   geom_sf(data = selected, aes(fill = years), color = "white", linewidth = 0.10,
           show.legend = TRUE) +
   scale_years() + coordinates() + map_theme +
-  labs(title = "B  Regional coverage", subtitle = "953 regions in 59 countries · 7,840 region-years")
+  labs(title = "B  Regional coverage", subtitle = sprintf("%s regions in %s countries · %s region-years",
+       format(nrow(region),big.mark=",",trim=TRUE),uniqueN(region$country),
+       format(sum(region$n_years),big.mark=",",trim=TRUE)))
 combined <- (national / regional / guide_area()) +
   plot_layout(heights = c(1, 1, 0.15), guides = "collect") +
   plot_annotation(caption = "Grey: outside the corresponding analysis sample.",

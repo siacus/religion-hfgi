@@ -943,6 +943,57 @@ UA,UA|17|Odessa,17,Odessa,Odessa,UA|17|Odessa,"Exact country, region ID and name
 UA,UA|1|Cherkasy,1,Cherkasy,Cherkasy,UA|1|Cherkasy,"Exact country, region ID and name",4
 UA,UA|5|Dnipropetrovs'k,5,Dnipropetrovs'k,Dnipropetrovs'k,UA|5|Dnipropetrovs'k,"Exact country, region ID and name",5
 UA,UA|6|Donets'k,6,Donets'k,Donets'k,UA|6|Donets'k,"Exact country, region ID and name",6
+US,US|10|Florida,10,Florida,Florida,US|10|Florida,"Exact country, region ID and name",10
+US,US|11|Georgia,11,Georgia,Georgia,US|11|Georgia,"Exact country, region ID and name",10
+US,US|12|Hawaii,12,Hawaii,Hawaii,US|12|Hawaii,"Exact country, region ID and name",10
+US,US|13|Idaho,13,Idaho,Idaho,US|13|Idaho,"Exact country, region ID and name",10
+US,US|14|Illinois,14,Illinois,Illinois,US|14|Illinois,"Exact country, region ID and name",10
+US,US|15|Indiana,15,Indiana,Indiana,US|15|Indiana,"Exact country, region ID and name",10
+US,US|16|Iowa,16,Iowa,Iowa,US|16|Iowa,"Exact country, region ID and name",10
+US,US|17|Kansas,17,Kansas,Kansas,US|17|Kansas,"Exact country, region ID and name",10
+US,US|18|Kentucky,18,Kentucky,Kentucky,US|18|Kentucky,"Exact country, region ID and name",10
+US,US|19|Louisiana,19,Louisiana,Louisiana,US|19|Louisiana,"Exact country, region ID and name",10
+US,US|1|Alabama,1,Alabama,Alabama,US|1|Alabama,"Exact country, region ID and name",10
+US,US|20|Maine,20,Maine,Maine,US|20|Maine,"Exact country, region ID and name",10
+US,US|21|Maryland,21,Maryland,Maryland,US|21|Maryland,"Exact country, region ID and name",10
+US,US|22|Massachusetts,22,Massachusetts,Massachusetts,US|22|Massachusetts,"Exact country, region ID and name",10
+US,US|23|Michigan,23,Michigan,Michigan,US|23|Michigan,"Exact country, region ID and name",10
+US,US|24|Minnesota,24,Minnesota,Minnesota,US|24|Minnesota,"Exact country, region ID and name",10
+US,US|25|Mississippi,25,Mississippi,Mississippi,US|25|Mississippi,"Exact country, region ID and name",10
+US,US|26|Missouri,26,Missouri,Missouri,US|26|Missouri,"Exact country, region ID and name",10
+US,US|27|Montana,27,Montana,Montana,US|27|Montana,"Exact country, region ID and name",10
+US,US|28|Nebraska,28,Nebraska,Nebraska,US|28|Nebraska,"Exact country, region ID and name",10
+US,US|29|Nevada,29,Nevada,Nevada,US|29|Nevada,"Exact country, region ID and name",10
+US,US|2|Alaska,2,Alaska,Alaska,US|2|Alaska,"Exact country, region ID and name",10
+US,US|30|New Hampshire,30,New Hampshire,New Hampshire,US|30|New Hampshire,"Exact country, region ID and name",10
+US,US|31|New Jersey,31,New Jersey,New Jersey,US|31|New Jersey,"Exact country, region ID and name",10
+US,US|32|New Mexico,32,New Mexico,New Mexico,US|32|New Mexico,"Exact country, region ID and name",10
+US,US|33|New York,33,New York,New York,US|33|New York,"Exact country, region ID and name",10
+US,US|34|North Carolina,34,North Carolina,North Carolina,US|34|North Carolina,"Exact country, region ID and name",10
+US,US|35|North Dakota,35,North Dakota,North Dakota,US|35|North Dakota,"Exact country, region ID and name",10
+US,US|36|Ohio,36,Ohio,Ohio,US|36|Ohio,"Exact country, region ID and name",10
+US,US|37|Oklahoma,37,Oklahoma,Oklahoma,US|37|Oklahoma,"Exact country, region ID and name",10
+US,US|38|Oregon,38,Oregon,Oregon,US|38|Oregon,"Exact country, region ID and name",10
+US,US|39|Pennsylvania,39,Pennsylvania,Pennsylvania,US|39|Pennsylvania,"Exact country, region ID and name",10
+US,US|3|Arizona,3,Arizona,Arizona,US|3|Arizona,"Exact country, region ID and name",10
+US,US|40|Rhode Island,40,Rhode Island,Rhode Island,US|40|Rhode Island,"Exact country, region ID and name",10
+US,US|41|South Carolina,41,South Carolina,South Carolina,US|41|South Carolina,"Exact country, region ID and name",10
+US,US|42|South Dakota,42,South Dakota,South Dakota,US|42|South Dakota,"Exact country, region ID and name",10
+US,US|43|Tennessee,43,Tennessee,Tennessee,US|43|Tennessee,"Exact country, region ID and name",10
+US,US|44|Texas,44,Texas,Texas,US|44|Texas,"Exact country, region ID and name",10
+US,US|45|Utah,45,Utah,Utah,US|45|Utah,"Exact country, region ID and name",10
+US,US|46|Vermont,46,Vermont,Vermont,US|46|Vermont,"Exact country, region ID and name",10
+US,US|47|Virginia,47,Virginia,Virginia,US|47|Virginia,"Exact country, region ID and name",10
+US,US|48|Washington,48,Washington,Washington,US|48|Washington,"Exact country, region ID and name",10
+US,US|49|West Virginia,49,West Virginia,West Virginia,US|49|West Virginia,"Exact country, region ID and name",10
+US,US|4|Arkansas,4,Arkansas,Arkansas,US|4|Arkansas,"Exact country, region ID and name",10
+US,US|50|Wisconsin,50,Wisconsin,Wisconsin,US|50|Wisconsin,"Exact country, region ID and name",10
+US,US|51|Wyoming,51,Wyoming,Wyoming,US|51|Wyoming,"Exact country, region ID and name",10
+US,US|5|California,5,California,California,US|5|California,"Exact country, region ID and name",10
+US,US|6|Colorado,6,Colorado,Colorado,US|6|Colorado,"Exact country, region ID and name",10
+US,US|7|Connecticut,7,Connecticut,Connecticut,US|7|Connecticut,"Exact country, region ID and name",10
+US,US|8|Delaware,8,Delaware,Delaware,US|8|Delaware,"Exact country, region ID and name",10
+US,US|9|District of Columbia,9,District of Columbia,District of Columbia,US|9|District of Columbia,"Exact country, region ID and name",10
 ZA,ZA|1|Eastern Cape,1,Eastern Cape,Eastern Cape,ZA|1|Eastern Cape,"Exact country, region ID and name",10
 ZA,ZA|2|Free State,2,Free State,Free State,ZA|2|Free State,"Exact country, region ID and name",10
 ZA,ZA|3|Gauteng,3,Gauteng,Gauteng,ZA|3|Gauteng,"Exact country, region ID and name",10

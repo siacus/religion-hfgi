@@ -41,7 +41,7 @@ support=lambda rows,lo:sum(float(r[lo])>0 for r in rows)
 hyp=[['H1','Yes' if support([r for r in read('paper_checks/temporal_robustness.csv') if r['level']=='Country'],'ci_low')==3 else 'Review'],
  ['H2','Partial' if support([r for r in sem if r['level']=='Country' and r['label'].startswith('indirect_')],'ci.lower')==2 else 'Review'],
  ['H1-Reg','Yes' if support([r for r in read('paper_checks/temporal_robustness.csv') if r['level']=='NUTS1'],'ci_low')==3 else 'Review'],
- ['H2-Reg','No (inconclusive)' if support([r for r in sem if r['level']=='NUTS1' and r['label'].startswith('indirect_')],'ci.lower')==0 else 'Review'],
+ ['H2-Reg','No (imprecise)' if support([r for r in sem if r['level']=='NUTS1' and r['label'].startswith('indirect_')],'ci.lower')==0 else 'Review'],
  ['H3','Yes' if support(a,'ci_low')==3 else 'Review'],['H4','Partial' if support(c,'ci_low')==5 else 'Review']]
 assert all(v!='Review' for _,v in hyp)
 write('table_8_hypotheses',['Hypothesis','Support'],hyp)
